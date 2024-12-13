@@ -29,8 +29,6 @@ Ensures suggestions align with best practices in mental health care.
 
 ## RAG Configuration Results
 
-## RAG Configuration Results
-
 | **Embedding Model**          | **Chunk Size** | **Chunk Overlap** | **Retriever**        | **Generation Model**      | **Embedding Size** | **Changes Made**            | **Score** |
 |------------------------------|----------------|-------------------|----------------------|---------------------------|--------------------|----------------------------|-----------|
 | all-mpnet-base-v2            | 2000           | 200               | VectorStore          | Llama-3-8B-Instruct       | 768                | Base Model                 | 7.06      |
