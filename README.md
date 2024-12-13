@@ -1,5 +1,7 @@
 # TheraGuide : Mental Health Support Chatbot
 
+![TheraGuide UI](UI_images/1.jpg)
+
 ## Overview
 
 This project aims to support mental health line workers by providing a Retrieval-Augmented Generation (RAG)-based chatbot. The chatbot is designed to assist workers by analyzing conversation summaries and providing actionable insights. It classifies the patient's condition into severity categories and offers tailored suggestions to ensure better care and improved patient safety.
@@ -43,3 +45,10 @@ Ensures suggestions align with best practices in mental health care.
 | LLM               | 5.81      |
 | Fine-tuned LLM    | 7.26      |
 | RAG               | 7.5       |
+
+## UI Snapshots
+
+![TheraGuide UI](UI_images/2.jpg)
+
+![TheraGuide UI](UI_images/3.jpg)
+
