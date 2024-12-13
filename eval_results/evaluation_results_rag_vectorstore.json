@@ -1,0 +1,1002 @@
+[
+    {
+        "Question": "What triggers Seasonal Affective Disorder (SAD)?",
+        "Ground_Truth": "SAD is triggered by seasonal changes, especially during fall and winter when there is less sunlight.",
+        "llm_only_response": " Seasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months, typically from November to March. The exact causes of SAD are not fully understood, but several factors may contribute to its development:\n1. Lack of sunlight: Reduced daylight hours and low levels of sunlight can disrupt circadian rhythms, leading to feelings of lethargy and sadness.\n2. Melatonin levels: Melatonin is a hormone produced by the pineal gland.",
+        "rag_response": "According to the given context, Seasonal Affective Disorder (SAD) is triggered by changes in seasons. Specifically, it is caused by the lack of sunlight during the fall and winter months when days get shorter.",
+        "fine_tuned_llm_response": "Seasonal affective disorder (SAD) is a type of depression that occurs during the winter months. It's often referred to as \"winter blues.\" The symptoms are similar to those of major depressive disorder, but they tend to occur at the same time every year.\nThe exact cause of SAD isn't known, but it's thought to be related to the lack of sunlight in the winter. This can disrupt your body's natural circadian rhythms and lead to feelings of sadness.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What are the health risks of bulimia nervosa?",
+        "Ground_Truth": "Risks include dental decay, dehydration, and severe electrolyte imbalances.",
+        "llm_only_response": "Bulimia Nervosa (BN) is an eating disorder characterized by periods of binge eating followed by purging or other methods to avoid gaining weight. BN can have serious physical and emotional consequences if left untreated.",
+        "rag_response": "The health risks of bulimia nervosa include:\n\u2022 Chronically inflamed and sore throat\n\u2022 Increasingly sensitive and decaying teeth (due to stomach acid when vomiting)\n\u2022 Severe dehydration and electrolyte imbalances, which can lead to serious health complications such as heart attack or stroke\n\u2022 Suddenly eating large amounts of food or buying large amounts of food that disappear right away\n\u2022 Regularly going to the bathroom right after meals\nThese health risks can be fatal due to various medical complications",
+        "fine_tuned_llm_response": "Bulimia Nervosa (BN) is a serious eating disorder characterized by cycles of bingeing and purging. The health risks associated with BN can be severe and even life-threatening if left untreated.\nSome of the potential health complications that may arise from BN include:\n1. Electrolyte Imbalance: Vomiting can lead to an imbalance of electrolytes such as potassium, sodium, calcium, and magnesium in the body. This can cause muscle weakness and heart problems.",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How can someone with mental health problems maintain a support system?",
+        "Ground_Truth": "By finding trustworthy individuals who provide good advice, respect, confidentiality, and allow space for growth and mistakes.",
+        "llm_only_response": " Maintaining a support system is crucial for individuals struggling with mental health issues. Here are some tips on how to do it:\n1. Identify your needs: The first step in maintaining a support system is to identify your needs. What kind of support do you need? Do you need emotional support, practical help, or just someone to talk to?\n2. Reach out to friends and family: Your friends and family may be the most readily available source of support. Don't be afraid to reach out.",
+        "rag_response": "To maintain a support system, find someone who gives good advice when you ask, assists you in taking actions that will help, likes, respects, and trusts you and is someone you like, respect, and trust, too. This person should allow you the space to change, grow, make decisions, and even make mistakes. They should also listen to you and share with you, both the good and bad times. Additionally, they should respect your need for confidentiality so you can tell them anything.",
+        "fine_tuned_llm_response": " Here are some tips:\n1. Reach out to friends and family: The people closest to you may be able to offer emotional support, help with daily tasks, or provide a listening ear.\n2. Join a support group: Support groups for mental health conditions like depression, anxiety, bipolar disorder, and more can connect you with others who understand what you're going through.\n3. Consider therapy: A therapist can help you develop coping strategies and provide ongoing support throughout your recovery process.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are the risk factors for schizophrenia?",
+        "Ground_Truth": "Risk factors include genetic predisposition and brain chemistry.",
+        "llm_only_response": "Schizophrenia is a complex mental disorder that affects about 1% of the population. While its exact causes are still not fully understood, research has identified several risk factors that may contribute to its development.\nGenetic factors: Having a family history of schizophrenia increases your risk of developing the condition. Studies have shown that identical twins are more likely to both develop schizophrenia than fraternal twins or siblings.\nEnvironmental factors: Exposure to certain environmental toxins, such as pesticides and heavy metals may trigger it.",
+        "rag_response": "According to the context, there are no specific risk factors mentioned for schizophrenia. However, it mentions that \"no one is sure what causes schizophrenia\" and that genetic makeup and brain chemistry likely play a role. It does not specify any particular risk factors for developing schizophrenia.",
+        "fine_tuned_llm_response": "Schizophrenia is a mental disorder that affects how people think and behave. It can cause hallucinations, delusions, and disorganized thinking and behavior.\nRisk factors for schizophrenia include:\n1. Family history: Having a family member with schizophrenia increases your risk of developing the condition.\n2. Genetic predisposition: Research suggests that genetic factors play a role in the development of schizophrenia.\n3. Brain structure and function: Studies have shown that people with schizophrenia tend to have abnormalities in brain.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 3,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does schizophrenia impact daily functioning?",
+        "Ground_Truth": "It affects work, socialization, and completing everyday tasks.",
+        "llm_only_response": " Schizophrenia is a chronic and severe mental disorder that affects how a person thinks, feels, and behaves. It can have a significant impact on an individual's daily functioning, making it difficult for them to perform everyday tasks, maintain relationships, and lead a normal life.\nHere is one way in which schizophrenia can impact daily functioning:\n1. Cognitive impairment: People with schizophrenia may experience difficulties with concentration, memory, and problem-solving, making it challenging to complete tasks or learn new information.",
+        "rag_response": "Schizophrenia can be extremely disruptive to a person\u2019s life, making it hard to go to school or work, keep a schedule, socialize, complete daily tasks, or take care of oneself. People with schizophrenia may struggle with disorganized thinking and speech, difficulty speaking and expressing emotion, and problems with attention, memory, and organization. This can make everyday tasks challenging and impact their overall daily functioning.",
+        "fine_tuned_llm_response": "Schizophrenia is a mental disorder that affects how people think, feel and behave. It can cause hallucinations, delusions, disorganized thinking and behavior, and mood changes. The symptoms of schizophrenia can be severe and debilitating, making it difficult for individuals to function in their daily lives.\nIndividuals with schizophrenia may experience difficulty performing routine tasks such as:\n1. Maintaining personal hygiene: They may have poor personal hygiene due to lack of motivation.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How can people manage the symptoms of social anxiety disorder?",
+        "Ground_Truth": "Through therapy, medication, support groups, and practicing stress management techniques.",
+        "llm_only_response": " There are several strategies that can help.\n1. Practice relaxation techniques: Deep breathing, progressive muscle relaxation, and visualization can help reduce feelings of anxiety.\n2. Challenge negative thoughts: People with social anxiety disorder often have negative self-talk and catastrophic thinking patterns. Practicing cognitive-behavioral therapy (CBT) can help identify and challenge these negative thoughts.\n3. Build confidence: Engage in activities that make you feel good about yourself, such as hobbies or volunteering.",
+        "rag_response": "Treatment, such as medicines and therapy, helps most people with social anxiety disorder. Support groups and learning stress management techniques can also assist with managing symptoms. Additionally, individual and/or group therapy can be a powerful antidote for social anxiety. Over time, you show a therapist more and more of yourself, and as they get to know you, they still care about you, they still don't judge you, and they still think you are amazing. Find a therapist you connect with.",
+        "fine_tuned_llm_response": "Social Anxiety Disorder (SAD) is a mental health condition characterized by feelings of extreme shyness, fear or avoidance of social situations due to fears of being judged or evaluated by others. People with SAD often experience physical symptoms such as rapid heartbeat, sweating, trembling, and blushing when they are in social situations.\n Cognitive-Behavioral Therapy is a way in which people can manage the symptoms of Anxiety Disorder.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What are common symptoms of anxiety disorders?",
+        "Ground_Truth": "Symptoms include excessive worry, restlessness, difficulty concentrating, irritability, and physical symptoms like sweating and nausea.",
+        "llm_only_response": " Anxiety disorders can cause a wide range of physical, emotional, and behavioral symptoms. Some common symptoms include:\nPhysical Symptoms:\nRacing or pounding heart (heart palpitations)\nTrembling or shaking hands or feet\nFeeling of butterflies in the stomach\nSweating or hot flashes\nNausea or stomach upset\nFatigue or feeling drained\nDifficulty sleeping or insomnia\nHeadaches or migraines\nMuscle tension or pain\nDigestive problems",
+        "rag_response": "Common symptoms of anxiety disorders include:\n* A sense of restlessness\n* Being on-edge or wound-up\n* Difficulty concentrating\n* Irritability\n* Being easily fatigued\n* Headaches, muscle aches, stomachaches, or unexplained pains\n* Trouble sleeping\n* Difficulty controlling feelings of worry\n* Sweating, nausea, or diarrhea\n\nThese symptoms can vary depending on the type of anxiety disorder, such as generalized anxiety disorder, panic disorder, specific phobias.",
+        "fine_tuned_llm_response": " Anxiety disorders can cause a wide range of physical and emotional symptoms. Some common signs include:\nFeeling nervous, worried, or scared\nHaving trouble sleeping or nightmares\nFeeling restless or fidgety\nDifficulty concentrating or paying attention\nIncreased heart rate or blood pressure\nTrembling or shaking hands\nFeeling like you're \"on edge\" all the time\nBreathing rapidly or feeling like you can't catch your breath\nFeeling dizzy or lightheaded\nFeeling irritable.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How does mental health impact decision-making?",
+        "Ground_Truth": "Mental health influences how individuals handle stress, relate to others, and make choices.",
+        "llm_only_response": "Mental health is a vital aspect of overall well-being, and its impact on decision-making can be significant. When we're struggling with our mental health, it can affect our ability to make informed decisions, leading to feelings of anxiety, uncertainty, and even regret.",
+        "rag_response": "Mental health impacts decision-making because it affects how we think, feel, and act. When experiencing mental health problems, our thinking, mood, and behavior could be affected, which can influence our decision-making processes. This might result in difficulties in making choices, feeling overwhelmed, or struggling to prioritize tasks. In some cases, mental health problems can also lead to impulsive decisions or reckless behaviors. On the other hand, good mental health can enable us to make informed, thoughtful, and rational decisions.",
+        "fine_tuned_llm_response": " Mental health is a vital aspect of our overall well-being. It plays a crucial role in how we perceive the world, interact with others, and make decisions that shape our lives. When we are mentally healthy, we can approach life's challenges with confidence, resilience, and clarity. However, when we struggle with mental health issues, it can significantly impair our ability to make informed choices.\n",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What is Attention-Deficit/Hyperactivity Disorder (ADHD)?",
+        "Ground_Truth": "ADHD is a condition marked by inattention, hyperactivity, and impulsivity, out of the normal range for a person's age.",
+        "llm_only_response": " ADHD is a neurodevelopmental disorder that affects both children and adults. It is characterized by symptoms of inattention, hyperactivity, and impulsivity. People with ADHD may have difficulty paying attention to details, following instructions, or completing tasks. They may also be easily distracted, forgetful, and disorganized. Hyperactive individuals may fidget, feel restless, or be constantly on the go. Impulsive people may interrupt others, blurt out answers, or act without thinking.",
+        "rag_response": "ADHD is exhibited by not being able to focus, being overactive, not being able to control behavior, or a combination of these. For these symptoms to be diagnosed as ADHD, they must be out of the normal range for a person's age and development.",
+        "fine_tuned_llm_response": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interfere with functioning and development. It typically begins in childhood and often continues into adulthood, affecting daily life, social relationships, and academic or work performance.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How can SAD be treated effectively?",
+        "Ground_Truth": "SAD treatment includes light therapy, antidepressants, talk therapy, and possibly vitamin D supplements.",
+        "llm_only_response": " Treatment options for Seasonal Affective Disorder (SAD) include:\n1. Light Therapy: Exposure to bright light, especially in the morning, helps regulate your circadian rhythms and improves mood.\n2. Medications: Antidepressants like selective serotonin reuptake inhibitors (SSRIs), bupropion (Wellbutrin), and mirtazapine (Remeron) can help alleviate symptoms of SAD.\n3. Lifestyle Changes: Establishing a consistent sleep schedule, exercising regularly.",
+        "rag_response": "SAD may be effectively treated with a specific type of light therapy for many. Antidepressant medicines and talk therapy may also be needed reduce SAD symptoms, either alone or combined with light therapy. Additionally, vitamin D supplements may improve symptoms.",
+        "fine_tuned_llm_response": "Seasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months when there is less sunlight. It's often referred to as \"winter blues.\" People who experience SAD typically have symptoms similar to those of major depressive disorder, such as feelings of sadness, hopelessness, and irritability.\nHere are some effective ways to treat Seasonal Affective Disorder:\n1. Light Therapy: Exposure to bright light, especially in the morning.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "Why is mental health important throughout life?",
+        "Ground_Truth": "It plays a role in emotional, psychological, and social well-being across all life stages.",
+        "llm_only_response": " Mental health is just as important as physical health, and it's essential to prioritize it at every stage of life. Here are some reasons why:\n1. Mental well-being affects overall health: Research shows that mental health is linked to physical health. People with good mental health tend to have better physical health, while those with poor mental health may be more prone to chronic diseases.\n2. Mental health impacts relationships: Good mental health helps us build stronger relationships.",
+        "rag_response": "Mental health is important at every stage of life, from childhood and adolescence through adulthood. Over the course of your life, if you experience mental health problems, your thinking, mood, and behavior could be affected.",
+        "fine_tuned_llm_response": " Mental health is important at every stage of life, from childhood to older age. Good mental health helps us to cope with the challenges and stresses that come our way, whether it's a difficult day or a major life change. It also helps us to build strong relationships with others, achieve our goals, and find happiness and fulfillment in life. Mental health is not just about being happy all the time; it's about learning how to manage your emotions and behaviors so you can live a healthy and fulfilling life.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What are the warning signs of suicide in youth?",
+        "Ground_Truth": "Talking about or making plans for suicide, expressing hopelessness, and withdrawing from social connections.",
+        "llm_only_response": "Warning signs of suicide in youth can vary, but common indicators include:\nTalk about wanting to die or self-harm: Expressing thoughts of death or phrases like \"I wish I were dead\" or \"I want to kill myself.\"\nWithdrawal from friends and family: Sudden isolation or withdrawal from social activities, friends, and family.",
+        "rag_response": "Talking about or making plans for suicide.\nExpressing hopelessness about the future.\nDisplaying severe or overwhelming emotional pain or distress.\nChanging or withdrawing from social connections or situations.\nChanges in sleep (increased or decreased).\nAnger or hostility that seems out of character or out of context.\nRecent increased agitation or irritability.\nThese are the warning signs of suicide in youth. ",
+        "fine_tuned_llm_response": "Suicide Warning Signs in Youth:\nThe warning signs of suicide in youth can be subtle and may not always be obvious. However, there are some common behaviors or changes that parents, caregivers, teachers, and mental health professionals should look out for to help identify potential suicidal behavior.\nWarning signs include:\n1. Changes in mood: Sudden changes in mood from happy to sad, irritable, or anxious.\n2. Withdrawal: Avoiding friends, family, or activitie.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "Why do people engage in self-harm?",
+        "Ground_Truth": "It provides temporary relief from emotional distress or feelings of loneliness and anger.",
+        "llm_only_response": "Self-injury, also known as self-harm or self-mutilation, is a complex and often misunderstood topic. People who engage in self-injury may use it as a way to cope with emotional pain, stress, anxiety, or other difficult emotions.",
+        "rag_response": "According to the text, people engage in self-harm as a way to cope with problems, such as loneliness, anger, or hopelessness. For some, self-harm provides a sense of relief. The text also mentions that self-harm can become a learned behavior, similar to an addiction, due to the release of endorphins that provide temporary relief. Additionally, it can be a way to manage overwhelming emotions, especially for those struggling with depression or anxiety.",
+        "fine_tuned_llm_response": "Self-injury, also known as self-harm or cutting, is a coping mechanism that some individuals use to deal with their emotional pain. People who self-harm often feel overwhelmed by their emotions and struggle to find healthy ways to manage them.\nThere are many reasons why someone may choose to self-harm. Some of the most common include:\n1. Feeling numb: Self-injury can be a way for people to feel something after feeling numb or disconnected from their emotions.\n",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What role does communication play in preventing suicide?",
+        "Ground_Truth": "Open communication helps individuals feel supported and reduces stigma.",
+        "llm_only_response": " Communication is a crucial factor in preventing suicide. Effective communication can help individuals feel heard, validated, and understood, which can reduce feelings of loneliness, isolation, and despair that may contribute to suicidal thoughts.\nHere are some ways communication plays a vital role in preventing suicide:\n1. Encourages openness: Open and honest communication can encourage individuals to share their feelings, emotions, and struggles without fear of judgment or rejection.\n2. Provides emotional support: Listening actively and empathetically can provide emotional support and validation.",
+        "rag_response": "Communication plays a crucial role in preventing suicide. It helps individuals navigate the struggles of life to find a sustainable sense of hope, meaning, and purpose. Effective communication encourages individuals to engage in behavioral health care, and it fosters a nurturing, supportive environment for all. Moreover, open communication helps identify warning signs of suicide and enables individuals to seek help when needed. By talking openly about thoughts and feelings, individuals can find support and reduce the risk of suicide. ",
+        "fine_tuned_llm_response": " Communication is a vital part of suicide prevention. When people feel heard and understood, they are more likely to open up about their feelings and seek help. Effective communication can also help reduce stigma around mental health issues and encourage people to reach out for support.\nHere are some ways that communication plays a crucial role in preventing suicide:\n1. Encourages Help-Seeking: When individuals feel supported and heard, they are more likely to seek help from mental health professionals or crisis hotlines.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How can therapy help in addressing self-harm?",
+        "Ground_Truth": "Therapy addresses emotional pain and provides healthier coping mechanisms.",
+        "llm_only_response": " Self-harm, also known as non-suicidal self-injury (NSSI), is a complex and often misunderstood behavior. It can be a way for individuals to cope with emotional pain, trauma, or other difficult emotions. Therapy can play an essential role in helping individuals address self-harm and develop healthier coping mechanisms.",
+        "rag_response": "DBT or Dialectical Behavior Therapy can help in addressing self-harm. This therapy focuses on giving you new tools to get through hard times, understand and manage your emotions, to stay present and to deal with relationships.",
+        "fine_tuned_llm_response": " Self-harm is a coping mechanism that some people use to deal with emotional pain. It may seem like an easy way out, but it can lead to serious physical and mental health problems. If you are struggling with self-harm or know someone who does, there are many ways that therapy can help.\nTherapy provides a safe space for individuals to explore their emotions and behaviors without fear of judgment. A therapist will work closely with the individual to identify triggers.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 6,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What emotional triggers are linked to self-harm?",
+        "Ground_Truth": "Triggers include feelings of anger, loneliness, and hopelessness.",
+        "llm_only_response": "Self-harm is a complex and deeply personal issue, and the emotional triggers that lead individuals to engage in this behavior can vary widely. However, some common emotional triggers associated with self-harm include:\n1. Emotional overload: Feeling overwhelmed by emotions, such as anxiety, depression, or trauma, can trigger self-harm.\n2. Negative self-talk: Criticizing oneself excessively can create feelings of worthlessness and low self-esteem, leading to self-harm.",
+        "rag_response": "According to the text, some people may engage in self-harm due to feelings of loneliness, anger, or hopelessness. This suggests that emotional triggers such as these can contribute to the development of self-harm. Additionally, the text mentions that individuals who experience depression or high anxiety may turn to self-harm as a coping mechanism, implying that emotional struggles can play a role in triggering self-harm. ",
+        "fine_tuned_llm_response": "Self-harm is a coping mechanism that some people use when they feel overwhelmed, stressed, anxious or depressed. It can be triggered by many different factors and can have serious consequences for mental health.\nSome common emotional triggers of self-harm include:\n1. Feeling hopeless: When you feel like there's no way out of the problems you're facing, it can lead to feelings of hopelessness and despair.\n2. Feeling angry: Anger can build up over time.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How can one intervene if an adult shows signs of suicide?",
+        "Ground_Truth": "By directly asking about suicidal thoughts and connecting them to help.",
+        "llm_only_response": "If you or someone you know is experiencing thoughts of suicide, there are many resources available to help. Here are some warning signs and ways to intervene:\nWarning Signs:\n1. Talking about suicide: If someone mentions wanting to die, taking their own life, or expressing feelings of hopelessness.\n2. Feeling hopeless: Expressing a sense of being trapped without any way out.\n3. Loss of interest in activities: Giving up hobbies, interests, or social connections.",
+        "rag_response": "If you believe someone may be in danger of suicide: \nCall 911, if danger for self-harm seems imminent.\nCall or text 988 to reach the 988 Suicide & Crisis Lifeline to talk to a caring professional.\nAsk them if they are thinking about killing themselves. This will not put the idea into their head or make it more likely that they will attempt suicide.\nListen without judging and show you care.\nStay with the person or make sure the person is in a private, secure place.",
+        "fine_tuned_llm_response": "If you or someone you know is in immediate danger, please call 911 or your local emergency number.\nWarning Signs:\nFeeling hopeless or having no reason to live\nFeeling guilty or ashamed about something\nHaving a history of mental illness or substance abuse\nBeing socially isolated or feeling disconnected from others\nExperiencing significant stressors or changes in life (e.g., loss of job)",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What challenges do people with schizophrenia face?",
+        "Ground_Truth": "Challenges include difficulty with socialization, employment, and maintaining daily routines.",
+        "llm_only_response": " People with schizophrenia often face a range of challenges, including:\nDifficulty understanding and processing information: Schizophrenia can affect the way the brain processes information, making it difficult for individuals to understand and process information from their environment.\nHallucinations and delusions: Hallucinations are sensory experiences that occur without an external stimulus. Delusions are false beliefs or misinterpretations of reality. These symptoms can be distressing and disrupt daily life.\nSocial isolation: People with schizophrenia may experience social withdrawal.",
+        "rag_response": "People with schizophrenia can face a range of challenges, including difficulty speaking and expressing emotion, problems with attention, memory, and organization, disorganized or abnormal physical behavior, and a reduced ability to function normally. They may also struggle with false beliefs that cannot be changed, even when presented with facts (delusions), seeing or hearing things that do not exist (hallucinations), and believing that others are reading or controlling their minds. Additionally, they may experience difficulties with daily tasks, such as personal hygiene.",
+        "fine_tuned_llm_response": "Schizophrenia is a mental disorder that affects how people think, feel and behave. It can be difficult to understand what it's like to live with the condition, but here are some of the common challenges people with schizophrenia may face:\n1. Hallucinations: Hearing voices or seeing things that aren't there can be very distressing.\n2. Delusions: Having false beliefs about yourself or others can lead to feelings of paranoia and low self-esteem.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How does bulimia nervosa differ from binge eating disorder?",
+        "Ground_Truth": "Bulimia involves purging behaviors like vomiting or excessive exercise after binge eating, unlike binge eating disorder.",
+        "llm_only_response": " Both bulimia nervosa (BN) and binge eating disorder (BED) are eating disorders characterized by recurring episodes of excessive food intake. However, while they share some similarities, there are distinct differences between the two conditions.",
+        "rag_response": "Bulimia Nervosa differs from Binge Eating Disorder in that people with Bulimia Nervosa engage in binge eating followed by purging or other compensatory behaviors to prevent weight gain, whereas those with Binge Eating Disorder tend to eat large amounts of food in a shorter period of time but do not necessarily purge or engage in compensatory behaviors.",
+        "fine_tuned_llm_response": " Both are eating disorders that involve overeating, but there are some key differences. Here's a brief overview:\nBulimia Nervosa (BN):\n* Characterized by cycles of binge eating followed by purging or compensatory behaviors to avoid gaining weight\n* Typically involves secretive and frequent binge eating episodes\n* Often accompanied by feelings of guilt, shame, and self-criticism after eating\n* May lead to physical complications such as electrolyte imbalance, dehydration, and tooth decay\n\n",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What physical symptoms are linked to panic disorder?",
+        "Ground_Truth": "Symptoms include rapid heart rate, sweating, and chest pain.",
+        "llm_only_response": "Panic disorder can trigger various physical symptoms, which are often associated with the body's \"fight or flight\" response to perceived danger. Common physical symptoms linked to panic disorder include heart palpitations, shortness of breath.",
+        "rag_response": "Rapid heart rate or chest pain\nShortness of breath\nSweating\nTrembling or tingling\nFeelings of doom or imminent danger\nFeeling out of control\nChills or hot flashes\nNausea\nThese physical symptoms are linked to panic disorder.",
+        "fine_tuned_llm_response": " Panic disorder is a mental health condition characterized by recurring, unexpected panic attacks. These attacks can be intense and frightening, and they often occur without warning. People with panic disorder may experience a range of physical symptoms during these episodes, including:\n1. Rapid heartbeat: A rapid heart rate or palpitations are common symptoms of panic disorders.\n2. Tremors: Shaking hands or tremors in the fingers are also typical signs of panic disorders.\n3. Sweating: Excessive sweating.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "Why are panic attacks frightening?",
+        "Ground_Truth": "They create sudden, intense fear with physical symptoms like chest pain and shortness of breath.",
+        "llm_only_response": " Because they're a sudden, intense fear that can be overwhelming and debilitating. Here's what you need to know about panic attacks.\nPanic attacks are a type of anxiety disorder characterized by sudden episodes of intense fear or discomfort that peak within minutes. They can occur at any time, even when there is no apparent reason for the fear. Panic attacks can be triggered by various factors such as stress, anxiety, or specific situations.",
+        "rag_response": "Panic attacks can be very frightening because they often leave people feeling out of control and uncertain about when the next attack will happen. This uncertainty can create a sense of dread and fear, making the experience even more terrifying. Additionally, the physical symptoms associated with panic attacks, such as rapid heart rate, sweating, and trembling, can be overwhelming and frightening in themselves. Furthermore, the fear of losing control and the uncertainty surrounding the next attack can lead to avoidance behaviors, making everyday activities and social interactions challenging.",
+        "fine_tuned_llm_response": " Panic attacks can be frightening because they involve a range of physical and emotional symptoms that can feel overwhelming. Some common symptoms include:\nRacing heart or palpitations\nFeeling dizzy or lightheaded\nBreathing rapidly or feeling like you're not breathing at all\nFeeling numb or tingling in your fingers or toes\nFeeling hot or flushed, or cold and clammy\nFeeling like you're going to pass out or faint\nFeeling like you're losing control or going crazy",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What populations does the Zero Suicide framework target?",
+        "Ground_Truth": "It targets individuals across healthcare systems, focusing on reducing suicides.",
+        "llm_only_response": " The Zero Suicide framework is designed to be used with any population that can benefit from a suicide prevention and intervention approach. This includes:\nIndividuals who are experiencing suicidal thoughts or behaviors\nIndividuals who have experienced trauma, including those in crisis or at risk of crisis\nIndividuals who are struggling with mental health conditions, such as depression, anxiety, or substance use disorders\nIndividuals who are marginalized or stigmatized due to their race, ethnicity, gender, sexual orientation, religion, or other factors",
+        "rag_response": "The Zero Suicide framework targets adults 18 and older.",
+        "fine_tuned_llm_response": " The Zero Suicide framework is designed to be used with any population that has a mental health service system in place. This includes:\nMental Health and Substance Abuse Treatment Centers\nPrimary Care Settings\nSchools and Universities\nEmployment-Based Programs\nCommunity Mental Health Centers\nCorrectional Facilities\nHomeless Shelters\nOther settings where people may seek help for mental health concerns.\nThe Zero Suicide framework can also be applied to specific sub-populations such as:\nYouth (adolescents and young adults)\n",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does insomnia relate to depression and feelings of worthlessness?",
+        "Ground_Truth": "Depression can cause racing thoughts, preventing sleep and intensifying negative emotions.",
+        "llm_only_response": "Insomnia is a common symptom that can occur in people with depression, and it's often linked to feelings of worthlessness. \n1. Shared underlying causes: Both insomnia and depression have been linked to similar underlying factors, such as stress, anxiety, and changes in brain chemistry. This means that individuals who experience insomnia may be more likely to develop depression, and vice versa.",
+        "rag_response": "Sleep is the big reset and allows a human to function in the day. What happens during a depression is that our thoughts race and it is as though our \u201cbrain won\u2019t shut off.\u201d Medication can help with this. ",
+        "fine_tuned_llm_response": "Insomnia and depression are closely linked, with insomnia often being both a symptom and risk factor for depression. This connection can worsen feelings of worthlessness:\nInsomnia affects 75% of people with depression\nPoor sleep can lead to depression, increasing risk 2-10 times\nLack of sleep impairs emotional regulation and cognitive function\nThis can intensify negative self-perceptions and worthlessness\nInsomnia and depression form a vicious cycle, exacerbating each other",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 3,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How can someone recognize suicide warning signs in adults?",
+        "Ground_Truth": "Behaviors such as talking about being a burden, feeling hopeless, or displaying extreme mood swings.",
+        "llm_only_response": "Suicide is a serious public health concern that affects millions of people worldwide. It's essential to recognize the warning signs and take appropriate action to help prevent tragic outcomes. Here are some common suicide warning signs in adults:\n1. Changes in behavior or mood:\n* Increased irritability, agitation, or anger\n* Withdrawal from social interactions or activities\n* Decreased interest in hobbies or favorite pastimes",
+        "rag_response": "Talking about or making plans for suicide.\nActing anxious, agitated, or behaving recklessly.\nTalking about being a burden to others.\nTalking about feeling trapped or in unbearable pain.\nIncreasing the use of alcohol or drugs.\nTalking about feeling hopeless or having no reason to live\nSleeping too little or too much.\nWithdrawing or feeling isolated.\nShowing rage or talking about seeking revenge.\nDisplaying extreme mood swings.",
+        "fine_tuned_llm_response": " Suicide is a serious public health concern that affects people of all ages. It is essential to be aware of the warning signs and take appropriate action if you notice them in an adult.\nWarning Signs of Suicide:\n1. Verbal Cues: Pay attention to verbal cues such as \"I'm just so tired,\" \"I don't care anymore,\" or \"I want it over.\" These statements may indicate suicidal thoughts.\n2. Behavioral Changes: Notice any changes in behavior, such as increased substance use.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What are physical symptoms of bulimia nervosa?",
+        "Ground_Truth": "Symptoms include inflamed throat, tooth decay, and severe dehydration.",
+        "llm_only_response": " Physical symptoms of bulimia nervosa can be severe and long-lasting if left untreated. Some common physical symptoms include:\n1. Tooth decay or gum problems: Frequent vomiting can cause tooth erosion, cavities, and gum recession.\n2. Swollen cheeks: Repeatedly inducing vomiting can lead to swelling in the cheeks due to inflammation and irritation.\n3. Abdominal pain: Vomiting can cause stomach pain, cramps, and discomfort.\n4. Diarrhea",
+        "rag_response": "\u2022 Chronically inflamed and sore throat\n\u2022 Increasingly sensitive and decaying teeth (due to stomach acid when vomiting)\n\u2022 Severe dehydration and electrolyte imbalances, which can lead to serious health complications such as heart attack or stroke\n\u2022 Dry mouth",
+        "fine_tuned_llm_response": "Bulimia Nervosa (BN) is a serious eating disorder characterized by bingeing and purging. The symptoms can be both physical and emotional.\nPhysical Symptoms:\n1. Vomiting: Frequent vomiting can lead to tooth decay, gum recession, and erosion of the enamel on your teeth.\n2. Gastrointestinal problems: Bingeing and purging can cause stomach pain, nausea, diarrhea, constipation, and irritable bowel syndrome (IBS).\n",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What resources are available for concerned parents?",
+        "Ground_Truth": "Parents can consult healthcare providers, school counselors, and crisis helplines.",
+        "llm_only_response": " There are many resources available to help concerned parents navigate the challenges of parenting and ensure their children's well-being. Here are some examples:\n1. Parenting classes: Many communities offer free or low-cost parenting classes that cover topics such as discipline, communication, and child development. These classes can provide valuable information and support.\n2. Support groups: Joining a support group for parents who share similar concerns can be a great way to connect with others who understand what you're going through.",
+        "rag_response": "The resources available for concerned parents include consulting with a school counselor, school nurse, mental health provider, or another healthcare professional if their child shows one or more of the warning signs mentioned earlier. Additionally, parents can reach out to the 988 Suicide & Crisis Lifeline or chat the Lifeline for immediate assistance. There are also faith-based organizations that offer free counseling services. Online messaging and social media can be used as a secondary option, although it may come with privacy concerns and consequences. ",
+        "fine_tuned_llm_response": " There are many resources available to help you support your child and address any concerns you may have. Here are a few: 1. School Counselor or Psychologist: Your child's school counselor or psychologist can provide guidance on how to identify signs of mental health issues, what to do if you're worried about your child, and how to find additional resources in your area. 2. Mental Health Professionals: If you're looking for more specialized care, consider reaching out to local mental health professionals.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What are the symptoms of Generalized Anxiety Disorder?",
+        "Ground_Truth": "Symptoms include restlessness, fatigue, irritability, trouble sleeping, and difficulty controlling worry.",
+        "llm_only_response": "Generalized Anxiety Disorder (GAD) is a mental health condition characterized by excessive and persistent worry about everyday things, such as work, finances, relationships, or even minor issues. The symptoms of GAD can be overwhelming and debilitating, affecting daily life and relationships.\nSymptoms of Generalized Anxiety Disorder include: Persistent and excessive worry: Feeling anxious or worried most days for at least six months.",
+        "rag_response": "A sense of restlessness\nBeing on-edge or wound-up\nDifficulty concentrating\nIrritability\nBeing easily fatigued\nHeadaches, muscle aches, stomachaches, or unexplained pains\nTrouble sleeping\nDifficulty controlling feelings of worry\nSweating, nausea, or diarrhea\nThese are the symptoms of Generalized Anxiety Disorder.",
+        "fine_tuned_llm_response": "Generalized Anxiety Disorder (GAD) is a mental health condition characterized by excessive and persistent worry about everyday things, such as work or school performance, finances, relationships, or health. People with GAD often feel like they can\u2019t control their worries, which can lead to feelings of anxiety, fear, and dread.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How is schizophrenia treated effectively?",
+        "Ground_Truth": "Treatment typically includes antipsychotic medications, individual therapy, family support, and consistent adherence to a treatment plan.",
+        "llm_only_response": " Treatment for schizophrenia typically involves a combination of medications and psychotherapy. The specific treatment plan will depend on the individual's symptoms, medical history, and personal preferences.\nMedications:\n1. Antipsychotics: These medications are used to reduce symptoms such as hallucinations, delusions, and disorganized thinking. Examples include haloperidol (Haldol), chlorpromazine (Thorazine), and risperidone (Risperdal).\n2. Mood stabilizers: These medications help regulate the symptoms.",
+        "rag_response": "Schizophrenia requires lifelong treatment. Effective treatment options include medication and therapy. Antipsychotic medications help get symptoms under control, making them less intrusive and disturbing. A psychiatrist may need to try different medications, at different doses, before finding the most effective medication with the least amount of side effects. It can take several weeks to notice an improvement in symptoms. For people who do not respond to medication, Electroconvulsive therapy (ECT) may be an option.",
+        "fine_tuned_llm_response": " Treatment for schizophrenia typically involves a combination of medications and therapies. Here are some effective ways to treat schizophrenia:\n1. Antipsychotic Medications: These medications help reduce symptoms such as hallucinations, delusions, and disorganized thinking. Examples include risperidone (Risperdal), olanzapine (Zyprexa), and quetiapine (Seroquel).\n2. Cognitive-Behavioral Therapy (CBT): CBT helps individuals identify and change negative thoughts.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How does panic disorder differ from occasional panic attacks?",
+        "Ground_Truth": "Panic disorder involves repeated and unexpected panic attacks, unlike occasional panic attacks which are less frequent and typically situational.",
+        "llm_only_response": " Panic disorder is a condition in which an individual experiences recurring and unexpected panic attacks, along with significant anxiety or fear of having another attack. In contrast, occasional panic attacks are isolated episodes that do not occur frequently enough to be considered a full-blown panic disorder.\nThe symptoms of panic disorder include:\nRecurring panic attacks: These are sudden and intense episodes of fear or discomfort that peak within minutes and last for at least 30 seconds.\nPersistent worry about having another attack.",
+        "rag_response": "Panic disorder differs from occasional panic attacks in that people with panic disorder have repeated occurrences of panic attacks. They often worry about when the next attack will happen, to the point where they will avoid places and situations that they know have affected them in the past.",
+        "fine_tuned_llm_response": " Panic disorder is a condition in which people experience recurring, unexpected panic attacks that are severe enough to be debilitating. The symptoms of these attacks can include heart palpitations, sweating, trembling, and shortness of breath.\nIn contrast, occasional panic attacks are typically less frequent and less intense than those experienced by individuals with panic disorder. They may also be triggered by specific situations or events, such as public speaking or being in enclosed spaces.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 6,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How can psychotherapy aid recovery from eating disorders?",
+        "Ground_Truth": "It addresses underlying emotional issues and provides strategies to manage symptoms.",
+        "llm_only_response": "Psychotherapy is a crucial component of treatment for individuals with eating disorders. It helps individuals understand the underlying causes of their eating disorder, develop coping skills, and work towards recovery. Psychotherapy is a form of counseling that involves talking with a trained therapist to explore your thoughts, feelings, and behaviors. The goal of psychotherapy is to help you understand and manage your symptoms and develop coping skills.",
+        "rag_response": "Psychotherapy can play a crucial role in aiding recovery from eating disorders. Cognitive-behavioral therapy (CBT) has been shown to be particularly effective in addressing the underlying psychological issues that contribute to eating disorders. ",
+        "fine_tuned_llm_response": " Eating disorders, such as anorexia nervosa and bulimia, are complex mental health conditions that involve a distorted relationship with food and weight. Psychotherapy is a form of counseling that involves talking to a trained therapist about your thoughts, feelings, and behaviors. In the case of eating disorders, psychotherapy can be very helpful in addressing the underlying issues that contribute to these problems.\nA therapist can identify triggers.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What treatments are available for anxiety disorders?",
+        "Ground_Truth": "Treatments include therapy, medication, and stress management techniques.",
+        "llm_only_response": "There are several effective treatments available for anxiety disorders, including:\\n1. Cognitive-behavioral therapy (CBT): This type of therapy helps individuals identify and change negative thought patterns and behaviors that contribute to their anxiety.\\n2. Medications like Antidepressants.",
+        "rag_response": "There are several treatments available for anxiety disorders, including Acceptance and Commitment Therapy (ACT), Cognitive Behavioral Therapy (CBT) with Mindfulness, Solution Focused Brief Therapy, Medication, and Homeopathy. These treatments can be used alone or in combination with each other. It is important to work with a qualified mental health professional to determine the best course of treatment for your specific needs.",
+        "fine_tuned_llm_response": " Anxiety disorders can be treated with a combination of therapies, lifestyle changes, and medications. Here are some common treatment options:\n1. Cognitive-behavioral therapy (CBT): This type of psychotherapy helps you identify negative thought patterns and behaviors that contribute to your anxiety.\n2. Exposure therapy: This involves gradually exposing yourself to the things that trigger your anxiety in order to become comfortable with them.\n3. Mindfulness-based stress reduction.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What is the role of CBT in managing depression and self-esteem issues?",
+        "Ground_Truth": "CBT helps individuals become aware of how their thought process influences beliefs and actions, enabling better control over emotions and behaviors.",
+        "llm_only_response": " Cognitive-behavioral therapy (CBT) is a type of psychotherapy that focuses on identifying and changing negative thought patterns and behaviors. In the context of depression and self-esteem issues, CBT can play a crucial role in helping individuals develop more positive and realistic ways of thinking about themselves and their experiences.",
+        "rag_response": "CBT (Cognitive Behavioral Therapy) plays a crucial role in managing depression and self-esteem issues. It helps individuals identify and challenge negative thought patterns, develop coping skills, and understand how their beliefs and attitudes influence their behavior and emotions.",
+        "fine_tuned_llm_response": " Cognitive-behavioral therapy (CBT) is a type of psychotherapy that focuses on helping individuals identify and change negative thought patterns and behaviors that contribute to their mental health symptoms. In the case of depression, CBT can help individuals identify and challenge negative thoughts and beliefs about themselves, others, and the world around them.\nCBT has been shown to be effective in reducing symptoms of depression and improving overall mental health outcomes. Some key components of CBT include:\n1. Identifying negative thoughts",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What are the health risks associated with self-harm?",
+        "Ground_Truth": "Risks include infections, permanent scars, and accidental severe injuries.",
+        "llm_only_response": " Self-injury, also known as self-harm or self-mutilation, is a dangerous and potentially life-threatening behavior that can have serious physical and emotional consequences. Some of the potential health risks associated with self-injury include:\n1. Infection: Cutting or burning oneself can lead to infection, which can be serious if left untreated.\n2. Scarring: Self-injury can cause permanent scarring, which can be emotionally distressing and affect one's self-esteem.",
+        "rag_response": "According to the provided context, self-harm increases the risk of attempting suicide and dying by suicide if left unaddressed. Additionally, it can lead to physical injuries such as scars, broken bones, or burns, as well as emotional and behavioral instability and unpredictability. Furthermore, it can also increase the risk of developing addiction-like behaviors due to the release of endorphins during the act.",
+        "fine_tuned_llm_response": "Self-harm, also known as non-suicidal self-injury (NSSI), is a dangerous and potentially life-threatening behavior. When you harm yourself on purpose, you may experience both immediate and long-term physical and emotional consequences.\nImmediate Risks:\nInfection: Cutting or burning your skin can lead to infection if bacteria enter the wound. ",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What are the causes of social anxiety disorder?",
+        "Ground_Truth": "Causes include genetics and learned behavior from past social traumas or embarrassments.",
+        "llm_only_response": " Social anxiety disorder, also known as social phobia, is a mental health condition characterized by feelings of overwhelming fear or anxiety in social situations. The exact causes of social anxiety disorder are not fully understood, but it is believed to be caused by a combination of genetic, environmental, and psychological factors.\nGenetic Factors:\nResearch suggests that social anxiety disorder may have a strong genetic component. Studies have found that individuals with a family history of social anxiety disorder are more likely to develop the condition themselves.\nEnvironmental Factors: Research also suggests that social anxiety disorder may have a strong genetic component.",
+        "rag_response": "According to the context, researchers think that brain circuits work differently for people who have social anxiety disorder. It tends to run in families and the symptoms often begin in children or teens. The exact cause of social anxiety disorder is not fully known, but factors such as genetics and learned behavior can contribute to its development.",
+        "fine_tuned_llm_response": " Social anxiety disorder is a mental health condition that affects millions of people worldwide. It is characterized by excessive and persistent fear or anxiety in social situations, such as meeting new people, speaking in public, or being seen in public.\nWhile there is no single cause of social anxiety disorder, research suggests that it may be caused by a combination of genetic, environmental, and psychological factors. Some possible causes include Genetic predisposition.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What is the Four-Fold Breath technique?",
+        "Ground_Truth": "The Four-Fold Breath is a pranayama yoga breathing technique used to relax and aid sleep.",
+        "llm_only_response": " The Four-Fold Breath, also known as the \"Square Breath,\" is a simple yet powerful breathing technique that can help you cultivate inner peace, reduce stress and anxiety, and even improve your overall health. Developed by Dr. Andrew Weil, this technique involves breathing in through your nose for four counts, holding your breath for four counts, and then exhaling through your mouth for four counts. This cycle is repeated several times throughout the day to reap its benefits.",
+        "rag_response": "I don't know the answer. The provided context does not mention the \"Four-Fold Breath\" technique. It mentions meditation apps like \"Breathe\", which guides users through relaxing breath exercises, but it does not specify a \"Four-Fold Breath\" technique.",
+        "fine_tuned_llm_response": " The Four-Fold Breath, also known as the \"Four-Part Breath,\" is a simple yet powerful breathing technique that can help you cultivate greater awareness and balance in your body and mind. It's based on the ancient yogic practice of Pranayama (breath control) and involves four distinct phases: 1. Inhale through the nose, filling the lungs with air. 2. Hold the breath for a few seconds. 3. Exhale slowly through the mouth.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 2,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does family history influence mental health?",
+        "Ground_Truth": "Family history may predispose individuals to mental health problems.",
+        "llm_only_response": "Family history is a well-established risk factor for various mental health conditions, including depression, anxiety disorders, and schizophrenia. However, the mechanisms by which family history influences mental health are not yet fully understood. This systematic review aimed to examine the current evidence on how family history influences mental health.\nA comprehensive search of electronic databases (PsycINFO, PubMed, Scopus, Web of Science) was conducted using keywords related to family history, mental health, and specific mental health conditions. Studies",
+        "rag_response": "According to the provided context, family history is mentioned as one of the factors that contributes to mental health conditions. This suggests that having a family history of mental health problems increases the likelihood of an individual developing mental health issues themselves. However, it is important to note that this is not the sole determining factor, and other biological and environmental factors also play a role.",
+        "fine_tuned_llm_response": " The relationship between family history and mental health is complex, with both genetic and environmental factors playing a role. This systematic review aims to summarize the current evidence on how family history influences mental health.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How do phobias affect daily life?",
+        "Ground_Truth": "Phobias can limit daily activities by avoiding feared objects or situations.",
+        "llm_only_response": " Phobias can have a significant impact on an individual's daily life, making it difficult for them to perform everyday tasks or engage in activities they once enjoyed. Here are some ways phobias can affect daily life:\n1. Social isolation: People with phobias may avoid social situations or interactions due to fear of encountering the feared object, situation, or person.\n2. Limited mobility: Phobias can restrict an individual's ability to travel, explore new places, or participate in outdoor activities.",
+        "rag_response": "A phobia is an irrational fear that interferes with your daily life. For example, someone with a fear of bridges may go to great lengths to avoid routes that have bridges. Similarly, someone with a fear of elevators may always use the stairs instead, which may not always be feasible. If overcoming a phobia will improve the quality of your life, then by all means, seek professional help to overcome it.",
+        "fine_tuned_llm_response": " Phobias are irrational fears that can have a significant impact on an individual's daily life. People with phobias may experience anxiety, avoidance behaviors, and other symptoms that can interfere with their ability to function in various areas of life.\nHere are some ways phobias can affect daily life:\n1. Social Interactions: Phobias can make social interactions difficult or even impossible for individuals who fear certain situations or objects.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How can NCCA temperament therapy benefit individuals?",
+        "Ground_Truth": "It helps individuals embrace their unique temperament, fostering self-acceptance and joy.",
+        "llm_only_response": "The National Center for Creative Arts (NCCA) offers a unique approach to personality development through its temperament therapy. This method focuses on understanding and developing an individual's natural strengths, weaknesses, and preferences to help them achieve their goals and improve their overall well-being.",
+        "rag_response": "\nBased on the provided context, I'd say that NCCA temperament therapy can benefit individuals by helping them develop coping skills to reduce levels of depression and strengthen self-esteem. The therapy can also guide individuals in recognizing how their thought processes influence their belief systems and behaviors, ultimately teaching them that they can't control every event in their lives but can control how they react to them. This approach can be beneficial for individuals dealing with depression, anxiety, toxic relationships, stress, self-esteem, codependency.",
+        "fine_tuned_llm_response": " The National Center for Competency-Based Education (NCCA) is a non-profit organization that provides training and certification in competency-based education. Their temperament therapy program helps individuals understand their personality traits, strengths, and weaknesses to improve communication skills, build stronger relationships, and achieve personal growth.\nTemperament Therapy Benefits:\n1. Improved Communication Skills: Understanding your personality type helps you communicate more effectively with others. You'll learn how to adapt your communication style to suit different personalities, leading to better relationships.",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "How can physical health affect feelings of depression?",
+        "Ground_Truth": "Depression can have roots in physical structures not functioning well, and addressing these may help alleviate symptoms.",
+        "llm_only_response": " Depression is a mental health condition that affects millions of people worldwide. While it's often associated with emotional and psychological symptoms, physical health can also play a significant role in the development and maintenance of depression.",
+        "rag_response": "According to the context, physical health can affect feelings of depression because certain physical illnesses, such as diabetes, cancer, or Parkinson's, can increase a person's risk of depression. Additionally, some medications can cause depression as a side effect.",
+        "fine_tuned_llm_response": " Depression is a mental illness that affects how you feel, think and behave. It's often characterized by feeling sad, hopeless, or empty for long periods of time. While it may seem unrelated to your physical health, there are many ways in which your body can impact your mood.\nHere are some ways in which physical health can contribute to feelings of depression:\n1. Hormones: Hormonal imbalances can have a significant impact on your mood. For example, thyroid hormone deficiencies can lead to depression.",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "Why does lack of sunlight contribute to SAD?",
+        "Ground_Truth": "Reduced sunlight affects serotonin and melatonin levels, impacting mood and sleep.",
+        "llm_only_response": "Seasonal Affective Disorder (SAD) is thought to be caused by the lack of exposure to natural sunlight during the winter months. This can lead to changes in your body's internal clock and the production of melatonin and serotonin, which are chemicals that help regulate your mood, sleep-wake cycles, and other bodily functions.",
+        "rag_response": "Lack of sunlight triggers Seasonal Affective Disorder (SAD) by messing up your circadian rhythms or causing problems with serotonin, which is the chemical that affects your mood.",
+        "fine_tuned_llm_response": "Lack of sunlight can contribute to Seasonal Affective Disorder (SAD) in several ways:\n1. Circadian rhythm disruption: Exposure to natural light helps regulate our circadian rhythms, which control our sleep-wake cycles and hormone production. When we don't get enough sunlight, our circadian rhythms become disrupted, leading to changes in our mood, energy levels, and appetite.\n2. Vitamin D deficiency: Sunlight triggers the production of vitamin D in our skin.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "Why is social withdrawal a concern for youth?",
+        "Ground_Truth": "Social withdrawal can indicate feelings of hopelessness or distress.",
+        "llm_only_response": " Social withdrawal, also known as social isolation or loneliness, can have significant negative effects on the mental and emotional well-being of young people. Here are some reasons why social withdrawal is a concern for youth:\n1. Impacts academic performance: Social withdrawal can negatively impact a student's academic performance by reducing their motivation to learn, decreasing their participation in class activities, and making it harder for them to form study groups.\n2. Increases risk of depression and anxiety: Social withdrawal can increase the risk of depression and anxiety.",
+        "rag_response": "Social withdrawal is a concern for youth because it can be a sign of underlying mental health issues, such as depression, social anxiety, or obsessive thinking. It can also create a sense of isolation, which can exacerbate feelings of loneliness and disconnection. Additionally, social withdrawal can prevent individuals from developing healthy relationships and communication skills, making it harder to seek help when needed.",
+        "fine_tuned_llm_response": " Social withdrawal in children and adolescents can be a sign of mental health issues such as depression, anxiety disorders, or autism spectrum disorder. When young people withdraw from their peers and family members, it can lead to feelings of loneliness, isolation, and disconnection.\nSome common signs of social withdrawal in children include:\n  1. Refusal to participate in activities with others\n  2. Avoidance of eye contact or facial expressions",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How can ADHD be treated?",
+        "Ground_Truth": "Treatment options for ADHD include medication, psychotherapy, education, and behavior management strategies.",
+        "llm_only_response": " Treatment for ADHD typically involves a combination of behavioral therapy, medication, and lifestyle changes. Here are some common treatments used to manage ADHD:\nBehavioral Therapy: Behavioral therapy helps individuals with ADHD develop skills to improve their behavior, such as organization, time management, and self-regulation.\nMedications: Medications, such as stimulants (e.g., Ritalin) and non-stimulant medications (e.g., Strattera), can help alleviate symptoms of ADHD.",
+        "rag_response": "Treatment plans can include medication, psychotherapy, trainings, education, or a combination of these.",
+        "fine_tuned_llm_response": "ADHD is typically treated with a combination of behavioral therapy and medication. Behavioral therapy helps individuals develop skills to manage their symptoms, such as staying focused and completing tasks. Medications used to treat ADHD include:\nStimulants: These medications are the most commonly prescribed for ADHD. They work by increasing dopamine levels in the brain, which helps improve focus and attention.\nNon-stimulant medications: These medications may be prescribed if stimulants do not work or have side effects.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "Why is early treatment critical for schizophrenia?",
+        "Ground_Truth": "Early treatment improves symptoms, recovery chances, and quality of life.",
+        "llm_only_response": "Early detection and treatment of schizophrenia are crucial to improving outcomes for individuals with the disorder. Here's why:\n1. Reduced symptoms: Early treatment can help reduce symptoms such as hallucinations, delusions, and disorganized thinking, which can significantly improve quality of life.\n2. Better functioning: Early intervention can help individuals with schizophrenia maintain their daily functioning, social relationships, and employment, reducing the risk of long-term disability.",
+        "rag_response": "Early treatment is critical for schizophrenia because the earlier treatment begins, the better the chances for recovery and improved quality of life.",
+        "fine_tuned_llm_response": "Schizophrenia is a mental disorder that affects how people think, feel and behave. It can cause hallucinations, delusions, disorganized thinking, and mood changes.\nEarly treatment of schizophrenia is important because it helps to:\nImprove symptoms: Early treatment can help reduce the severity of symptoms such as hallucinations, delusions, and disorganized thinking.\nPrevent complications: Untreated schizophrenia can lead to complications such as depression, anxiety disorders, and suicidal thoughts.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are the signs of binge eating disorder?",
+        "Ground_Truth": "Signs include eating large quantities of food in one sitting, feeling loss of control, and using food as a coping mechanism.",
+        "llm_only_response": " Binge eating disorder (BED) is a serious eating disorder characterized by recurring episodes of overeating, often accompanied by feelings of guilt, shame, and self-criticism. The signs of binge eating disorder can vary from person to person, but common symptoms include:\n1. Recurring episodes of binge eating: You may eat large amounts of food in a short period, often quickly and without feeling satisfied.",
+        "rag_response": "Eating large quantities of food in one sitting, often secretly\nFeels unable to control their eating behaviors\nUses food as a coping mechanism in response to traumatic or stressful life events\nFeels shame, embarrassment, or guilt about their eating behaviors\nThese are signs of \"Binge-Eating Disorder\".",
+        "fine_tuned_llm_response": " Binge Eating Disorder (BED) is a serious eating disorder that involves consuming large amounts of food in a short period of time. People with BED often eat quickly and secretly, feeling guilty or ashamed after eating.\nSome common signs of binge eating disorder include:\n1. Consuming large amounts of food in a short amount of time\n2. Feeling guilty or ashamed about eating\n3. Hiding food to avoid others seeing how much you're eating\n4. Eating quickly without noticing your hunger or full",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does binge eating disorder impact mental health?",
+        "Ground_Truth": "It often leads to feelings of guilt, shame, and reduced self-esteem.",
+        "llm_only_response": " Binge eating disorder (BED) is a serious eating disorder that can have significant effects on an individual's mental health. People with BED often experience feelings of guilt, shame, and low self-esteem after engaging in episodes of binge eating. These negative emotions can lead to depression, anxiety, and other mental health issues.\nHere are some ways in which binge eating disorder can impact mental health:\n1. Low self-esteem: Individuals with BED may feel ashamed or embarrassed about their eating habits, leading to low self-esteem.",
+        "rag_response": "In terms of mental health, binge eating disorder can exacerbate existing mental health conditions, such as depression and anxiety, and can also trigger new ones. It can also lead to feelings of isolation and loneliness, as the person may feel ashamed or embarrassed about their eating habits.",
+        "fine_tuned_llm_response": " Binge Eating Disorder (BED) is a serious eating disorder characterized by recurring episodes of binge eating. During these episodes, individuals consume large amounts of food in a short period of time, often accompanied by feelings of guilt, shame, and self-criticism.\nBinge eating disorder can have significant effects on an individual's mental health. Some of the ways it may impact mental well-being include:\n1. Depression: BED has been linked to depression.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What is the goal of the Garrett Lee Smith Campus program?",
+        "Ground_Truth": "It enhances mental health services and reduces suicide risks among college students.",
+        "llm_only_response": " The Garrett Lee Smith (GLS) Campus Program aims to increase mental health awareness, reduce stigma around mental illness, and promote help-seeking behaviors among college students. The program also seeks to support colleges and universities in developing comprehensive mental health services and resources for their students.",
+        "rag_response": "I don\u2019t know the answer.",
+        "fine_tuned_llm_response": " The Garrett Lee Smith Campus Treatment Program (GLS) aims to improve mental health outcomes for college students by providing a comprehensive, campus-based treatment program. The GLS program focuses on early intervention and prevention strategies to help students develop healthy coping mechanisms, build resilience, and manage stress.\nThe GLS program provides a range of services, including counseling. Individual and group counseling sessions are available to help students cope with mental health issues such as depression",
+        "LLM_Only_Score": 8,
+        "RAG_Score": 1,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How does obsessive-compulsive disorder manifest?",
+        "Ground_Truth": "Through repeated thoughts (obsessions) and repetitive actions (compulsions) to reduce anxiety.",
+        "llm_only_response": "Obsessive-compulsive disorder (OCD) is a mental health condition characterized by recurring, intrusive thoughts (obsessions) and repetitive behaviors or mental acts that individuals feel compelled to perform in response to those thoughts. The symptoms of OCD can vary widely from person to person, but here are some common manifestations:\nIntrusive thoughts: People with OCD often experience unwanted, disturbing thoughts, images, or urges that they cannot control. ",
+        "rag_response": "Repetitive, upsetting thoughts or obsessions; Repeated behaviors or compulsions, such as excessive handwashing or checking; Difficulty carrying out daily activities due to obsession with symmetry or exactness; Feeling extremely distressed if rituals are not performed correctly; Intense fear of making mistakes or causing harm.",
+        "fine_tuned_llm_response": " Obsessive-compulsive disorder (OCD) is a mental health condition characterized by recurring, intrusive thoughts and compulsions to perform specific rituals or behaviors. These obsessions can be distressing and interfere with daily life.\nCommon symptoms of OCD include:\n1. Intrusive thoughts: Recurring, unwanted thoughts that are often disturbing or unpleasant.\n2. Compulsions: Rituals or behaviors performed in an attempt to reduce anxiety or prevent perceived harm.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What other resources are available for self-harm prevention?",
+        "Ground_Truth": "Specialized self-harm programs and crisis helplines offer support and interventions.",
+        "llm_only_response": " There are many resources available to help individuals who are struggling with self-harm. Some of these resources include:\n1. National Suicide Prevention Lifeline: This is a 24/7 hotline that provides free and confidential support for people in distress, as well as those who are concerned about someone else.\n2. Crisis Text Line: This is a text messaging service that connects individuals with trained crisis counselors 24/7.\n3. Online Support Groups: Many online support groups are available for individuals.",
+        "rag_response": "There are several resources available for self-harm prevention. These include:\n\n* Outpatient therapy\n* Partial-inpatient or inpatient hospitalization\n* Specialized self-harm programs\n* Dialectical behavior therapy (DBT)\n* Interpersonal neurobiology\n* Crisis hotlines and support groups\n\nThese resources can help individuals struggling with self-harm develop healthier coping mechanisms and work towards recovery.\n\nAdditionally, there are various online resources and organizations dedicated to providing information, support, and guidance for individuals.",
+        "fine_tuned_llm_response": " There are many resources available to help individuals who struggle with self-harm. Some of these include:\n1. National Suicide Prevention Lifeline: 1-800-273-TALK (8255)\n2. Crisis Text Line: Text HOME to 741741\n3. The Trevor Project: 1-866-488-7386\n4. American Foundation for Suicide Prevention (AFSP): afsp.org\n5. The National Alliance on Mental Illness (NAMI): nami.org",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "Why is suicide prevention a community responsibility?",
+        "Ground_Truth": "Communities can provide support, awareness, and resources to save lives.",
+        "llm_only_response": " Suicide prevention is a community responsibility because it requires the involvement and support of individuals, organizations, and communities to effectively address this complex issue. Here are some reasons why:\n1. Suicide affects everyone: Suicide can happen to anyone, regardless of age, gender, race, or socioeconomic status. It's essential for communities to recognize that suicide is not just an individual problem but a societal issue that requires collective action.\n2. Community networks matter: People who are struggling with suicidal thoughts often turn to the community.",
+        "rag_response": "Suicide prevention is a community responsibility because it affects everyone in the community. When someone dies by suicide, it can have a ripple effect throughout the entire community, leaving behind friends, family, and loved ones who are grieving and trying to make sense of what happened.",
+        "fine_tuned_llm_response": " Suicide Prevention Awareness Month (SPAM) is an annual observance in September that aims to raise awareness about the importance of mental health and suicide prevention. The theme for SPAM 2022 is \"Suicide Prevention is Everyone's Business.\"\nSuicide is a public health problem that affects people from all walks of life, regardless of age, gender, race, or socioeconomic status. According to the Centers for Disease Control and Prevention (CDC), suicide rates have increased by nearly 30% since 2001.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What are the main symptoms of schizophrenia?",
+        "Ground_Truth": "Symptoms include delusions, hallucinations, disorganized thinking, and difficulty expressing emotions.",
+        "llm_only_response": " The main symptoms of schizophrenia include:\n1. Hallucinations: Hearing voices or sounds that aren't there, seeing things that aren't there, smelling smells that aren't there, tasting tastes that aren't there, and feeling sensations that aren't there.\n2. Delusions: Believing things that aren't true, such as thinking someone is plotting against you or that you have a special connection to God.\n3. Disorganized thinking: Difficulty with logical thinking, difficulty following conversations.",
+        "rag_response": "The main symptoms of schizophrenia include false beliefs that cannot be changed, even when presented with facts (delusions). Other symptoms include seeing or hearing things that do not exist, such as a voice making commands (hallucinations). Additionally, people with schizophrenia may experience disorganized thinking and speech, difficulty speaking and expressing emotions, and abnormal physical behavior. They may also have a reduced ability to function normally, such as ignoring personal hygiene or not showing emotion.",
+        "fine_tuned_llm_response": " Schizophrenia is a mental disorder characterized by changes in thinking, perception, and behavior. The main symptoms include:\n1. Hallucinations: Hearing voices or sounds that aren't there.\n2. Delusions: False beliefs about things like people, places, or events.\n3. Disorganized thinking: Trouble with thoughts, such as difficulty concentrating, remembering information, or making decisions.\n4. Catatonia: A state of immobility, where you can't move or respond.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How can family members support a loved one with schizophrenia?",
+        "Ground_Truth": "By providing emotional support and encouraging adherence to treatment.",
+        "llm_only_response": "Family members play a crucial role in supporting individuals with schizophrenia. Here are some ways you can help:\n1. Educate yourself: Learn about the symptoms, causes, and treatment options for schizophrenia. This will help you understand what your loved one is going through and how to best support them.\n2. Encourage professional help: Schizophrenia is a treatable condition, but it requires ongoing medical attention. Encourage your loved one to see a mental health professional regularly.",
+        "rag_response": "Supporting a loved one with schizophrenia can be done by recognizing the signs of mental health problems and connecting them to professional help. Expressing your concern and support, reminding them that help is available and that mental health problems can be treated, asking questions, listening to ideas, and being responsive when the topic of mental health comes up. Offering to help with everyday tasks, including them in your plans, educating others about mental health issues, treating them with respect, compassion, and empathy.",
+        "fine_tuned_llm_response": "Family members play a crucial role in supporting their loved ones who have schizophrenia. Here are some ways you can help:\n1. Educate yourself: Learn about the symptoms, treatment options, and what it's like to live with schizophrenia. This will help you better understand your loved one's experiences.\n2. Encourage professional help: Schizophrenia is a treatable condition, but it requires ongoing medical attention. Encourage your loved one to see a mental health professional regularly.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What treatments are available for eating disorders?",
+        "Ground_Truth": "Treatments include psychotherapy, nutritional counseling, and medical care.",
+        "llm_only_response": "Eating disorders can be challenging to treat, but there are various therapies and interventions that can help individuals recover. The most effective treatment approaches typically involve a combination of:\n1. Cognitive-behavioral therapy (CBT): This type of therapy helps individuals identify and change negative thought patterns and behaviors associated with their eating disorder.\n2. Family-based therapy: Involves the entire family in the therapeutic process, focusing on improving communication and relationships within the family unit.",
+        "rag_response": "Treatment plans can include psychotherapy, medical care, nutrition counseling, or medications. Full recovery from an eating disorder is possible.",
+        "fine_tuned_llm_response": " Eating disorders, such as anorexia nervosa and bulimia, can be challenging to treat. However, there are several treatment options that have been shown to be effective in helping individuals overcome these conditions.\nThe most common treatments for eating disorders include:\n1. Cognitive-behavioral therapy (CBT): This type of therapy helps patients identify negative thoughts and behaviors associated with their eating disorder and develop healthier coping mechanisms.\n2. Family-based therapy",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does panic disorder affect relationships?",
+        "Ground_Truth": "It can create tension and avoidance in relationships due to fear of attacks.",
+        "llm_only_response": " Panic disorder can have a significant impact on relationships with family, friends, and romantic partners. Here are some ways in which it may affect relationships:\n1. Social withdrawal: People with panic disorder may withdraw from social interactions due to fear of having a panic attack or being embarrassed by their symptoms.\n2. Difficulty communicating: Panic attacks can make it difficult for individuals to communicate effectively, leading to misunderstandings and feelings of frustration.",
+        "rag_response": "Panic disorder can significantly impact relationships. People with panic disorder often worry about when the next attack will happen, which can lead them to avoid places and situations that trigger their anxiety. This avoidance can cause significant distress and strain on relationships. Additionally, individuals with panic disorder may become withdrawn or isolated due to their symptoms, further complicating relationships. Effective communication and understanding are crucial in helping individuals with panic disorder manage their symptoms and maintain healthy relationships.",
+        "fine_tuned_llm_response": " Panic disorder can have a significant impact on relationships with family and friends. People who experience panic attacks may avoid certain situations or places that trigger their anxiety, which can lead to feelings of frustration and resentment from loved ones.\n The symptoms of panic disorder include:\nPanic attacks: These are sudden episodes of intense fear or discomfort that peak within minutes and last for at least 10 minutes.\nFear of losing control or \"going crazy\"\nFear of dying or having a heart attack",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "How can someone help a person showing warning signs of suicide?",
+        "Ground_Truth": "They can listen without judgment, ask directly about suicidal thoughts, stay with the person, and remove potential means of self-harm.",
+        "llm_only_response": "Warning signs that may indicate someone is at risk of suicide include:\nTalking about wanting to die or kill oneself\nExpressing feelings of hopelessness, helplessness, or being trapped\nMaking statements about feeling like they don't want to be around anymore\nEngaging in reckless or impulsive behaviors\nWithdrawing from social interactions or activities",
+        "rag_response": "Remove any objects that could be used in a suicide attempt. Learn how to talk about mental health to help you speak to a loved one who you may think is experiencing any mental health concerns. Listen without judging and show you care. Stay with the person or make sure the person is in a private, secure place with another caring person until you can get further help. Ask them if they are thinking about killing themselves. This will not put the idea into their head or make it more likely.",
+        "fine_tuned_llm_response": "If you're concerned that someone may be suicidal, there are some important steps to take. Here's how you can help:\n1. Learn the Warning Signs: There are several warning signs that could indicate someone is at risk for suicide. These include:\n- Feeling hopeless or helpless\n- Feeling guilty or worthless\n- Feeling angry or irritable\n- Feeling sad or depressed\n- Feeling like they have no reason to live\n- Feeling like they want to die",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "How should parents approach mental health conversations?",
+        "Ground_Truth": "By creating a safe space and using simple, non-judgmental language.",
+        "llm_only_response": " Here are some tips to help you have open and honest discussions with your child:\n1. Start early: Mental health education should begin at home, even before your child starts school. Teach children about emotions, empathy, and self-awareness.\n2. Use everyday moments: Take advantage of daily routines like bath time, bedtime stories, or mealtime conversations to discuss feelings and emotions.\n3. Listen actively: When your child talks about their feelings, listen attentively without interrupting or judging. ",
+        "rag_response": "When talking about mental health problems with your child you should:\nCommunicate in a straightforward manner\nSpeak at a level that is appropriate to a child or adolescent's age and development level (preschool children need fewer details than teenagers)\nDiscuss the topic when your child feels safe and comfortable\nWatch for reactions during the discussion and slow down or back up if your child becomes confused or looks upset\nListen openly and let your child tell you about their feelings and worries",
+        "fine_tuned_llm_response": " Here are some tips to help you have these important discussions with your child.\n1. Start the conversation early: It's never too early or too late to start talking about mental health. Children as young as 4-5 years old can understand and benefit from conversations about emotions, feelings, and coping strategies.\n2. Use everyday moments: Mental health conversations don't need to be formal or scheduled. Use everyday moments like dinner time, bath time, or bedtime stories.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What are effective treatments for phobias?",
+        "Ground_Truth": "Exposure therapy and cognitive-behavioral techniques are commonly used treatments.",
+        "llm_only_response": "Phobias are irrational fears that can be debilitating and interfere with daily life. Effective treatments for phobias include:\n1. Exposure therapy: This involves gradually exposing the individual to the feared object, situation, or activity while receiving support and guidance from a therapist.\n2. Cognitive-behavioral therapy (CBT): CBT helps individuals identify and change negative thought patterns and behaviors associated with their phobia.\n3. Relaxation techniques: Techniques such as deep breathing can help.",
+        "rag_response": "Exposure therapy can help. This consists of gradually exposing yourself a little at a time to the thing you are afraid of. Some people with phobias find that the irrational fear interferes with their life and they do need to overcome it. Exposure therapy is well-studied and proven to work.",
+        "fine_tuned_llm_response": " There are several effective treatments for phobias, including:\n1. Exposure Therapy: This involves gradually exposing the person to the feared object or situation while receiving support and guidance from a therapist.\n2. Cognitive-Behavioral Therapy (CBT): CBT helps individuals identify and change negative thought patterns that contribute to their phobia.\n3. Relaxation Techniques: Deep breathing, progressive muscle relaxation, and visualization can help reduce anxiety and panic associated with phobias.",
+        "LLM_Only_Score": 8,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What is the purpose of the Native Connections program?",
+        "Ground_Truth": "To prevent suicide and address trauma among AI/AN youth.",
+        "llm_only_response": " The Native Connections program aims to support and empower Indigenous peoples in their personal, social, emotional, and spiritual development. It provides a safe space for individuals to share their experiences, connect with others who understand their struggles, and develop coping strategies to overcome challenges.\nThe Native Connections program acknowledges the historical trauma, intergenerational trauma, and ongoing systemic barriers that many Indigenous peoples face.",
+        "rag_response": "I don't know the answer. The provided context doesn't mention anything about the Native Connections program. It seems to focus on relationships, self-acceptance, and counseling.",
+        "fine_tuned_llm_response": " The Native Connections program aims to support and connect Native American students, faculty, staff, and community members at the University of Montana. This program provides a safe space for individuals to share their experiences, build connections with others who understand their unique challenges and opportunities, and develop strategies to navigate the university environment.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 2,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What distinguishes social anxiety disorder from shyness?",
+        "Ground_Truth": "Social anxiety disorder involves persistent fear of being judged, interfering with daily life.",
+        "llm_only_response": " While both conditions involve feelings of nervousness or apprehension in social situations, there are some key differences.\n\nShyness is a more general term that refers to a tendency to feel uncomfortable or hesitant in social situations. People who are shy may avoid social interactions or feel anxious about meeting new people, but they don't necessarily experience the same level of distress as individuals with social anxiety disorder.\n\nSocial anxiety disorder, on the other hand, is a specific mental health condition characterized by excessive and persistent anxiety.",
+        "rag_response": "I don't know the answer.",
+        "fine_tuned_llm_response": " While both conditions involve feeling nervous or uncomfortable in social situations, the key difference lies in the level of distress and impairment that results from these feelings.\nPeople who are shy may feel nervous around others, but they do not experience a significant amount of distress as a result. They may be able to manage their shyness by avoiding certain social situations or taking steps to prepare themselves for interactions with others.\nIn contrast, individuals with social anxiety disorder (SAD) often experience a high level of distress.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 1,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "Why is consistent treatment crucial for schizophrenia?",
+        "Ground_Truth": "Consistent treatment helps manage symptoms and prevent relapses.",
+        "llm_only_response": " Consistent treatment is crucial for schizophrenia because it helps to manage the symptoms of the disorder and prevent relapses. Schizophrenia is a chronic condition that requires ongoing management, and inconsistent treatment can lead to worsening symptoms and increased risk of relapse.\n\nConsistency in treatment also helps to reduce the risk of medication side effects and interactions. When medications are taken consistently, healthcare providers can better monitor their effectiveness and adjust dosages as needed. Inconsistent treatment can lead to unpredictable outcomes and increased risk of adverse reactions.",
+        "rag_response": "Consistent treatment is crucial for schizophrenia because it helps manage the symptoms of the disease and improve the quality of life for individuals affected by it. With consistent treatment, people with schizophrenia can learn to cope with their symptoms, develop strategies to prevent relapses, and maintain their overall well-being.",
+        "fine_tuned_llm_response": " Consistent treatment is crucial for schizophrenia because it helps to manage symptoms and prevent relapses. Schizophrenia is a chronic mental illness that requires ongoing medical attention to effectively manage its symptoms.\nConsistency in treatment can help to:\nReduce symptoms: Consistent treatment can help reduce the severity of symptoms such as hallucinations, delusions, and disorganized thinking.\nPrevent relapses: Relapses are common in schizophrenia, but consistent treatment can help prevent them by reducing symptoms and improving overall functioning.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 6,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What triggers eating disorders?",
+        "Ground_Truth": "Triggers include societal pressures, genetic factors, and co-existing mental health issues.",
+        "llm_only_response": "Eating disorders are complex conditions that can be triggered by a combination of genetic, environmental, and psychological factors. While the exact causes of eating disorders are not yet fully understood, research has identified several potential triggers and risk factors.\nGenetic predisposition: Some people may be more susceptible to developing an eating disorder due to their genetic makeup. Studies have found that individuals with a family history of eating disorders are at higher risk of developing an eating disorder themselves.",
+        "rag_response": "Eating disorders can be triggered by various factors, including genetics, hormones, co-morbid mental disorders (such as depression or anxiety disorders), social attitudes that promote very thin body types, and diet culture.",
+        "fine_tuned_llm_response": " Eating disorders are complex conditions that can be triggered by a combination of factors. While there is no single cause, some common triggers include:\n1. Genetics: Having a family history of an eating disorder increases the risk of developing one.\n2. Societal pressure to be thin or fit: The media and society often portray unrealistic body ideals, which can lead to negative self-image and low self-esteem.\n3. Body image issues: Feeling uncomfortable with your body shape or size can also contribute.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What triggers generalized anxiety disorder?",
+        "Ground_Truth": "Triggers include genetics, brain function, and environmental stressors.",
+        "llm_only_response": "Generalized anxiety disorder (GAD) is a chronic condition characterized by excessive and persistent worry about everyday things, such as work or school performance, finances, relationships, health, or the future. While the exact causes of GAD are not fully understood, research suggests that a combination of genetic, environmental, and psychological factors can contribute to its development.",
+        "rag_response": "The symptoms of GAD comes from a complex interaction between biology and environment. Some factors may include genetics, brain function and chemistry, individual personality, development, and one\u2019s perception of threats.",
+        "fine_tuned_llm_response": " Anxiety disorders are the most common mental health issues in the United States. Generalized anxiety disorder (GAD) is a type of anxiety disorder that affects people of all ages, but it is more common among women than men.\nThe exact cause of GAD is not known, but several factors may contribute to its development:\n1. Genetic predisposition: If you have a family history of anxiety or depression, you may be more likely to develop GAD.\n",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What is NCCA temperament therapy?",
+        "Ground_Truth": "NCCA temperament therapy focuses on understanding one's specific temperament type.",
+        "llm_only_response": " NCCA stands for National Christian Counselors Association, and their temperament therapy is based on the idea that people have different temperaments or personality types. The theory suggests that each person has a unique combination of four main traits: dominance, inducement, steadiness, and promedominance.\nThe NCCA temperament therapy approach emphasizes understanding and accepting one's own temperament, as well as understanding and appreciating the temperaments of others. This can help individuals develop more effective relationships and improve communication with others.\n\n",
+        "rag_response": "I do not know the answer. The provided context does not mention NCCA temperament therapy. It appears to discuss various aspects of therapy, including CBT, Rational Emotive Behavior Theory, and Christian-based counseling, but does not specifically mention NCCA temperament therapy.",
+        "fine_tuned_llm_response": " NCCA stands for National College of Clinical Hypnotherapy and Counselling. They are a UK-based college that offers training in hypnotherapy, counselling and psychotherapy.\nTemperament Therapy is a type of therapy that focuses on understanding your personality traits and how they affect your relationships and daily life. It's based on the idea that people have different temperaments or personalities that influence their behavior and interactions with others.\nThe goal of Temperament Therapy is to help you understand yourself better.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 2,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What are effective interventions for children facing mental health issues?",
+        "Ground_Truth": "Interventions include therapy, support groups, and educational accommodations.",
+        "llm_only_response": " Mental health problems in childhood can have long-term consequences, and early intervention is crucial. This systematic review aims to identify effective interventions for children facing mental health issues.",
+        "rag_response": "Effective interventions for children facing mental health issues include:\n\n* Promoting social and emotional competency and building resilience\n* Helping ensure a positive, safe school environment\n* Teaching and reinforcing positive behaviors and decision-making\n* Encouraging helping others\n* Encouraging good physical health\n* Helping ensure access to school-based mental health supports\n* Developing evidence-based strategies for supporting student mental health in the classroom\n* Consulting with a school counselor, nurse, or administrator and the student's parents if you observe",
+        "fine_tuned_llm_response": " Mental health problems in children and adolescents have become a major public health concern. Effective interventions are essential to address these problems, but there is limited knowledge on what works best.",
+        "LLM_Only_Score": 3,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 4
+    },
+    {
+        "Question": "Why is observing behavior changes in children important?",
+        "Ground_Truth": "It helps identify potential mental health issues early, leading to timely interventions.",
+        "llm_only_response": " Observing behavior changes in children is important for several reasons:\n1. Early Intervention: Observing behavior changes can help identify potential issues early on, allowing for early intervention and prevention of more serious problems.\n2. Developmental Milestones: Behavior changes can indicate whether a child is meeting developmental milestones or not. This information can be used to adjust teaching strategies and provide additional support if needed.\n3. Understanding Child Development: Observing behavior changes helps us understand how children develop and grow over time. ",
+        "rag_response": "Observing behavior changes in children is important because it helps identify potential mental health issues early on, allowing for timely interventions and support. It also allows educators to provide a supportive learning environment and connect students with resources they may need.",
+        "fine_tuned_llm_response": " Observing behavior changes in children is crucial because it helps parents and caregivers understand their child's emotional, social, cognitive, and physical development. It also allows them to identify any potential issues or concerns early on, which can be addressed through appropriate interventions.\nHere are some reasons why observing behavior changes in children is important:\n1. Identifies developmental milestones: Observing behavior changes in children helps identify whether they are meeting typical developmental milestones. This ensures that parents and caregivers are aware of any delays or red flags.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What factors contribute to mental health conditions?",
+        "Ground_Truth": "Biological factors like genes or brain chemistry, life experiences such as trauma or abuse, and family history of mental health problems contribute to mental health conditions.",
+        "llm_only_response": " Mental health is a vital aspect of overall well-being, and it's essential to understand the various factors that contribute to mental health conditions. Here are some key factors:\n1. Genetics: Genetic predisposition plays a significant role in the development of mental health conditions such as depression, anxiety disorders, and schizophrenia.\n2. Brain Chemistry: Imbalances in neurotransmitters like serotonin, dopamine, and norepinephrine can affect mood, motivation, and emotional regulation.",
+        "rag_response": "According to the context, biological factors, such as genes or brain chemistry, and life experiences, such as trauma or abuse, contribute to mental health conditions. Family history of mental health problems also plays a role.",
+        "fine_tuned_llm_response": "Mental health is a vital aspect of our overall well-being. However, many people struggle with mental health issues such as depression, anxiety disorders, and personality disorders. \nSeveral factors can contribute to the development of mental health conditions. Here are some of them:\n1. Genetics: Research suggests that genetics play a significant role in the development of mental health conditions. If you have a family history of mental illness, you may be more prone.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How can early and consistent treatment help people with mental health conditions?",
+        "Ground_Truth": "Early and consistent treatment, including medication and psychotherapy, helps manage conditions and lead a meaningful life.",
+        "llm_only_response": " Early and consistent treatment can significantly improve outcomes for individuals with mental health conditions. Here are some ways in which early and consistent treatment can make a difference:\n1. Reduced symptoms: Early treatment can help reduce the severity of symptoms, making it easier for individuals to manage their daily lives.\n2. Improved functioning: Consistent treatment can help individuals regain lost skills and abilities, allowing them to return to work or school, and engage in activities they enjoy.",
+        "rag_response": "Early and consistent treatment\u2014often a combination of medication and psychotherapy\u2014it is possible to manage these conditions, overcome challenges, and lead a meaningful, productive life.",
+        "fine_tuned_llm_response": " Early intervention is crucial in treating mental health conditions. The sooner you seek professional help, the better your chances of recovering from a mental illness.\nHere are some ways that early and consistent treatment can help:\n1. Improve symptoms: Early treatment helps to reduce or eliminate symptoms associated with mental health conditions such as depression, anxiety disorders, post-traumatic stress disorder (PTSD), and others.\n2. Prevent complications: Untreated mental health conditions can lead to complications like substance abuse and suicidal thoughts.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "What are common causes of depression in Seasonal Affective Disorder?",
+        "Ground_Truth": "Changes in seasons, particularly during fall and winter when sunlight decreases, often trigger SAD.",
+        "llm_only_response": " (SAD)\nSeasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months, typically between September and March. The exact causes of SAD are not fully understood, but several factors contribute to its development:\n1. Lack of sunlight: Reduced daylight hours and low levels of sunlight can disrupt circadian rhythms, leading to feelings of lethargy, fatigue, and sadness.\n2. Melatonin levels: As days shorten, melatonin production increases.",
+        "rag_response": "According to the given context, common causes of depression in Seasonal Affective Disorder (SAD) include:\n\n* Lack of sunlight\n* Shorter days during winter\n* Disruption of circadian rhythms\n* Problems with serotonin levels\n\nThese factors can contribute to feelings of sadness, depression, and lethargy, which are characteristic of SAD.",
+        "fine_tuned_llm_response": " - Seasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months when there is less sunlight. The symptoms of SAD include feeling sad, hopeless, and lethargic. Some people also experience changes in their appetite or sleep patterns.\nCommon causes of depression in Seasonal Affective Disorder include:\n1. Lack of sunlight: People who live far from the equator may be more prone to Seasonal Affective Disorder because they have less exposure to natural light.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What makes social anxiety disorder unique?",
+        "Ground_Truth": "It involves a persistent fear of judgment, impairing social and work life.",
+        "llm_only_response": " Social anxiety disorder (SAD) is a mental health condition characterized by excessive and persistent fear of being judged, evaluated, or rejected in social situations. Here are some key factors that make SAD unique:\n1. Fear of social judgment: People with SAD have an intense fear of being judged, criticized, or evaluated by others. This fear can be so overwhelming that it interferes with daily life.\n2. Avoidance behaviors: Individuals with SAD often avoid social situations or events.",
+        "rag_response": "Social anxiety disorder is characterized by an excessive and persistent fear of embarrassment or humiliation in social situations. People with social anxiety disorder may avoid social interactions or endure them with distress. The disorder can significantly impair daily functioning, including work, school, and relationships.",
+        "fine_tuned_llm_response": " Here are some key factors that set it apart from other mental health conditions:\n1. Fear of social or performance situations: People with social anxiety disorder often feel intense fear, worry, or discomfort in everyday social situations, such as meeting new people, going to parties, or speaking up in class.\n2. Avoidance behaviors: Individuals may avoid certain situations altogether or take steps to minimize their exposure to them. For example, they might cancel plans with friends or family members due to feelings of anxiety.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How does the 988 Suicide & Crisis Lifeline support individuals in crisis?",
+        "Ground_Truth": "It provides free, confidential support via trained counselors to help individuals manage crises and connect to resources.",
+        "llm_only_response": " The 988 Suicide & Crisis Lifeline is a free, confidential, and 24/7 service that connects individuals in suicidal crisis or emotional distress with trained crisis counselors. When you call or text the Lifeline at 988, you will be connected to a trained counselor who can:\nListen to your concerns without judgment\nProvide immediate support and guidance\nConnect you with local resources and emergency services if needed\nOffer coping strategies and help you develop a plan to keep you safe until help arrives.",
+        "rag_response": "The 988 Suicide & Crisis Lifeline is a free, confidential 24/7 phone line that connects individuals in crisis with trained counselors across the United States. Responders are trained counselors who have successfully helped to prevent suicide ideation and attempts among callers. Calls to the Lifeline are routed to the nearest crisis center for connections to local resources for help. Individuals can call or text 988 or chat the Lifeline to get immediate support.",
+        "fine_tuned_llm_response": " The 988 Suicide & Crisis Lifeline is a national network of over 200 crisis centers, each with its own unique strengths and expertise. When you call or text the Lifeline, you will be connected to a trained crisis counselor who can help you:\nIdentify your feelings and concerns\nDevelop coping strategies\nConnect with local resources and services\nGet immediate support from a trained professional\nThe Lifeline also offers language translation services for non-English speakers.",
+        "LLM_Only_Score": 8,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What lifestyle changes can help manage SAD?",
+        "Ground_Truth": "Increased exposure to natural light and maintaining a consistent sleep schedule can help.",
+        "llm_only_response": "Seasonal affective disorder (SAD) is a type of depression that occurs during the winter months. While it's not possible to completely eliminate SAD, there are several lifestyle changes you can make to help manage your symptoms.\n1. Light therapy: Exposure to bright light, especially in the morning, can help regulate your circadian rhythms and improve your mood. You can use a specialized light therapy box or a portable light device specifically designed for SAD.\n2. Morning sunlight: Vitamin D",
+        "rag_response": "Some lifestyle changes that can help manage Seasonal Affective Disorder (SAD) include:\n\n* Sticking to a treatment plan\n* Keeping your primary care physician updated\n* Practicing good self-care, such as controlling stress with activities like meditation or tai-chi, eating healthy, exercising, and getting enough sleep\n* Reaching out to family and friends\n* Developing coping skills\n* Getting enough sleep\n\nThese lifestyle changes can help individuals with SAD manage their symptoms and feel better throughout the",
+        "fine_tuned_llm_response": "Light exposure, Exercise outdoors, Healthy diet, Regular sleep, Stress management, Social interaction, Vitamin D intake can help manage SAD.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What causes self-harm behaviors?",
+        "Ground_Truth": "Causes include emotional distress and difficulty coping with negative feelings.",
+        "llm_only_response": " Self-harm, also known as non-suicidal self-injury (NSSI), is a complex and multifaceted issue that can be caused by a variety of factors. Some common causes include:\n1. Emotional regulation: People who struggle with emotional dysregulation may use self-harm as a way to cope with overwhelming emotions.\n2. Trauma: Individuals who have experienced trauma, such as physical or sexual abuse, may use self-harm as a way to deal with the emotional pain.",
+        "rag_response": "According to the text, self-harm tends to begin in teenage or early adult years. Some people may engage in self-harm a few times and then stop, while others do it more often and have trouble stopping. For many people, self-harm gives them a sense of relief and is used as a means to cope with a problem. Some teens say that when they hurt themselves, they are trying to stop feeling lonely, angry, or hopeless.",
+        "fine_tuned_llm_response": "Self-injury is a coping mechanism that some people use to deal with their emotions. It can be triggered by stress, anxiety, depression, or other mental health conditions. Some people may also turn to self-injury as a way to cope with trauma, such as physical or sexual abuse.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are common behaviors indicating self-harm?",
+        "Ground_Truth": "Behaviors like cutting, burning, hitting oneself, or wearing long sleeves to cover scars indicate self-harm.",
+        "llm_only_response": "Self-harm is a complex and often secretive behavior, making it challenging to identify. However, there are some common behaviors that may indicate someone is engaging in self-harm:\n1. Unexplained injuries or scars: If you notice unexplained cuts, burns, or other injuries on the person's body, it could be a sign of self-harm.\n2. Withdrawal from social interactions: People who engage in self-harm might withdraw from social activities or become isolated.",
+        "rag_response": "Some common behaviors indicating self-harm include:\n\n* Cutting one's skin with a sharp object\n* Piercing the skin with sharp objects\n* Hitting or punching oneself or punching things (like a wall)\n* Burning oneself with cigarettes, matches, or candles\n* Breaking bones or bruising oneself\n\nThese behaviors may be accompanied by physical symptoms such as scars, wearing long sleeves or pants, and frequent reports of accidental injury. Emotional and behavioral instability and unpredictability may also be observed.",
+        "fine_tuned_llm_response": " Some of the most common signs include:\n1. Cuts or scars on their arms, legs, chest, back, or other areas.\n2. Burns from cigarettes, lighters, or matches.\n3. Bruises or black eyes.\n4. Unexplained injuries or cuts.\n5. Wearing long sleeves and pants in warm weather.\n6. Avoiding social situations that involve swimming or water activities.\n7. Hiding their body under layers of clothing.\n8. Frequently checking themselves for any signs.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are common symptoms of depression in individuals with Seasonal Affective Disorder (SAD)?",
+        "Ground_Truth": "Symptoms include feelings of sadness, hopelessness, fatigue, overeating, oversleeping, and social withdrawal.",
+        "llm_only_response": "Seasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months when there is less sunlight. The symptoms of SAD can be similar to those experienced by people with major depressive disorder, but they tend to occur at the same time every year.",
+        "rag_response": "Feeling grumpy, sad, nervous, or having mood swings; Anhedonia or lack of pleasure in things you normally love; Eating much more or less than usual; Gaining weight; Sleeping a lot more than you normally do, but still feeling sluggish; Difficulty concentrating; ",
+        "fine_tuned_llm_response": " \nSeasonal Affective Disorder (SAD) is a type of depression that occurs during the winter months. The symptoms of SAD can be similar to those experienced by people who have major depressive disorder, but they tend to occur at specific times of the year and often resolve when daylight hours increase.\nCommon symptoms of depression in individuals with SAD include:\n1. Feeling sad or hopeless for most of the day\n2. Loss of interest in activities you once enjoyed\n3. Difficulty concentrating",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are the warning signs of suicide for adults?",
+        "Ground_Truth": "Warning signs include talking about suicide, feeling hopeless, withdrawing socially, and showing extreme mood swings.",
+        "llm_only_response": "Common warning signs of suicide in adults include:\nChanges in behavior or mood\nIncreased substance abuse\nSocial withdrawal or isolation",
+        "rag_response": "Talking about or making plans for suicide.\nActing anxious, agitated, or behaving recklessly.\nTalking about being a burden to others.\nTalking about feeling trapped or in unbearable pain.\nIncreasing the use of alcohol or drugs.\nTalking about feeling hopeless or having no reason to live.\nSleeping too little or too much.\nWithdrawing or feeling isolated.\nShowing rage or talking about seeking revenge.\nDisplaying extreme mood swings.",
+        "fine_tuned_llm_response": "While it's impossible to predict with certainty whether someone will attempt or complete suicide, there are some common warning signs that may indicate a person is at risk. These include:\n1. Talking about suicide: If you hear someone talking about how they want to die, or if they're expressing feelings of hopelessness and despair.\n2. Feeling hopeless: People who feel hopeless often believe their problems can't be solved and that things won't get better.",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What does the term 'mental health' encompass?",
+        "Ground_Truth": "Mental health includes emotional, psychological, and social well-being.",
+        "llm_only_response": " Mental health encompasses a wide range of emotional, psychological, and social well-being aspects. It includes:\nEmotional well-being: Feeling happy, fulfilled, and content.\nMood regulation: Managing emotions, such as anxiety, depression, or irritability.\nCognitive functioning: Thinking clearly, making sound judgments, and solving problems effectively.\nSocial relationships: Building and maintaining healthy connections with others.\nPersonality development: Developing a sense of identity, self-esteem, and confidence.\nResilience: Bouncing back.",
+        "rag_response": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act, and helps determine how we handle stress, relate to others, and make choices.",
+        "fine_tuned_llm_response": " Mental health encompasses a wide range of emotions, behaviors and experiences that affect how we think, feel and act. It includes our emotional well-being, coping skills, resilience, self-esteem, relationships with others, ability to learn and adapt, and overall sense of happiness and fulfillment.\nGood mental health is essential for living a happy, healthy life. When we have good mental health, we are better able to cope with stress, build strong relationships with others and achieve our goals.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How does therapy help individuals understand their thought processes?",
+        "Ground_Truth": "Therapy guides individuals to see how thoughts impact actions, teaching them to interpret and respond differently to life's challenges.",
+        "llm_only_response": " Therapy helps individuals understand their thought processes by providing a safe and supportive environment to explore their thoughts, feelings, and behaviors. A therapist can help you identify patterns in your thinking, challenge negative self-talk, and develop more balanced and realistic ways of thinking.",
+        "rag_response": "According to the context, CBT (Cognitive Behavioral Therapy) helps individuals understand their thought processes. It guides them in recognizing how their thought process influences their belief system, and how their beliefs impact their actions and outcomes of their behaviors. This process teaches individuals that they don't always have control over what happens in their lives, but they can control how they interpret, feel, and behave.",
+        "fine_tuned_llm_response": " Therapy helps individuals understand their thought processes by providing a safe and supportive environment to explore their thoughts, feelings, and behaviors. A therapist can help you identify patterns in your thinking that may be contributing to negative emotions or self-destructive behaviors.\nTherapists use various techniques to help clients become more aware of their thoughts, such as:\n1. Mindfulness: Practicing mindfulness meditation can help increase awareness of the present moment, including thoughts, emotions, and physical sensations.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 6,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How can someone overcome self-harm tendencies?",
+        "Ground_Truth": "Through therapy, hospitalization if necessary, and developing alternative coping mechanisms to manage emotions.",
+        "llm_only_response": " Overcoming self-harm tendencies requires a combination of professional help, support from loved ones, and personal commitment. Here are some steps you can take to overcome self-harm:\n1. Seek professional help: Working with a therapist or counselor who specializes in trauma and self-harm can help you identify the underlying causes of your self-harming behaviors and develop coping strategies.\n2. Build a support network: Surround yourself with people who care about you and want to help you heal. ",
+        "rag_response": "According to the text, DBT (Dialectical Behavior Therapy) is one of the most effective interventions for overcoming self-harm tendencies. Additionally, working with a therapist trained in DBT or Interpersonal Neurobiology could also help individuals overcome self-harm tendencies by addressing the underlying emotional pain and providing alternative coping mechanisms.",
+        "fine_tuned_llm_response": "Self-harm is a coping mechanism that some people use to deal with emotional pain. It may seem like an easy way out or a way to feel in control, but it's not a healthy or safe way to cope.\nIf you're struggling with self-harm, there are many ways to get help and support:\n1. Seek professional help: If you find yourself engaging in self-harm behaviors regularly, consider seeking the help of a mental health professional.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How does the Native Connections initiative support youth?",
+        "Ground_Truth": "By addressing trauma and mental health among AI/AN youth through culturally tailored programs.",
+        "llm_only_response": " The Native Connections initiative supports youth by providing them with opportunities to connect with their peers, develop leadership skills, and engage in activities that promote cultural awareness and understanding. Some specific ways the initiative supports youth include:\nProviding a platform for young people to share their stories and experiences through social media campaigns and community events.\nOffering mentorship opportunities with established leaders and professionals in the Native American community.\nFostering connections between Native American youth and other young people from diverse backgrounds, promoting cross-cultural understanding.",
+        "rag_response": "The Native Connections initiative supports youth by providing community-based suicide prevention and substance misuse prevention programs for American Indian/Alaska Native (AI/AN) youth through age 24. These programs aim to reduce the impact of trauma, promote mental health, and foster culturally responsive models that address the unique needs of AI/AN communities. ",
+        "fine_tuned_llm_response": " The Native Connections initiative is a comprehensive, community-based program that provides a range of services and supports to help young people develop their skills, build resilience, and achieve their goals. Some of the ways in which the initiative supports youth include:\nProviding mentorship opportunities: The initiative connects young people with positive role models who can offer guidance, support, and encouragement.\nOffering job training and employment opportunities: The initiative helps young people gain work experience and develop employable skills through internships, apprenticeships.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "Why is it important to address warning signs of depression early?",
+        "Ground_Truth": "Early intervention can prevent worsening symptoms and help individuals manage their condition effectively.",
+        "llm_only_response": " Early intervention can help prevent the development of more severe symptoms and reduce the risk of long-term disability. It's also important to address warning signs of depression early because:\n1. Depression can be a silent illness: Many people don't recognize the signs of depression or may not seek help until symptoms become severe.\n2. Early treatment can improve outcomes: Studies have shown that early treatment for depression can lead to better outcomes, including faster recovery rates and reduced risk of relapse.",
+        "rag_response": "It is crucial to address warning signs of depression early because depression can significantly impact an individual's quality of life, relationships, and overall well-being. Early intervention can help individuals manage their symptoms, improve their mental health, and prevent further complications. ",
+        "fine_tuned_llm_response": " Depression can be a serious mental health condition that affects millions of people worldwide. It can cause feelings of sadness, hopelessness, and emptiness, which can interfere with daily life and relationships. If left untreated, depression can lead to more severe symptoms, such as suicidal thoughts or behaviors.\nEarly detection and treatment are crucial in managing depression effectively. Here are some reasons why addressing warning signs of depression early is essential:\n1. Prevents worsening symptoms: Early intervention helps prevent the symptoms from worsening over time.",
+        "LLM_Only_Score": 8,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What does the Zero Suicide framework aim to achieve?",
+        "Ground_Truth": "The Zero Suicide framework focuses on reducing suicide through comprehensive strategies within healthcare systems.",
+        "llm_only_response": " The Zero Suicide framework aims to achieve zero suicides in healthcare systems by implementing a comprehensive and evidence-based approach to suicide prevention. It is designed to identify, assess, and treat individuals at risk of suicide, as well as provide support for those who have experienced loss due to suicide.\nThe framework has several key components, including:\n1. Identifying and assessing patients at risk: Healthcare providers are trained to identify patients who may be at risk of suicide and conduct assessments to determine their level of risk.",
+        "rag_response": "The Zero Suicide framework aims to implement a comprehensive, multi-setting suicide prevention approach for adults 18 and older. It incorporates health equity principles within the framework to reduce suicide ideation, attempts, and deaths.",
+        "fine_tuned_llm_response": " The Zero Suicide framework aims to create a comprehensive, evidence-based approach that helps healthcare providers and mental health professionals to identify people at risk of suicide and provide them with appropriate support. The goal is to help individuals who are struggling with suicidal thoughts or behaviors to find hope and healing.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "How can increased substance use signal a suicide risk in adults?",
+        "Ground_Truth": "It often reflects attempts to cope with emotional pain, increasing suicide risk.",
+        "llm_only_response": " Substance use disorders (SUDs) are often comorbid with mental health conditions, such as depression and anxiety. When an individual struggles with SUDs, it can increase their risk of suicidal behavior.\nIncreased substance use may indicate a suicide risk in adults for several reasons:\n1. Escalating dependence: As individuals become more dependent on substances, they may experience withdrawal symptoms when they try to stop or reduce their use. This can lead to feelings of desperation, hopelessness, and despair.",
+        "rag_response": "Increased substance use can be a warning sign of suicide risk in adults because it can indicate underlying mental health issues, such as depression, anxiety, or trauma, which can contribute to suicidal thoughts and behaviors. Additionally, excessive substance use can also lead to feelings of hopelessness, despair, and isolation, which are common precursors to suicide.",
+        "fine_tuned_llm_response": " Substance use is often associated with mental health conditions, such as depression and anxiety. When an individual uses substances to cope with their emotions or problems, it can lead to addiction and worsen their mental health.\nIncreased substance use may be a sign of suicidal thoughts or behaviors in adults because:\n1. It can mask emotional pain: Using substances to cope with negative emotions can temporarily alleviate feelings of sadness, hopelessness, and despair. However, this coping mechanism can also distract from the underlying issues that need attention.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What are early warning signs of mental health problems?",
+        "Ground_Truth": "Signs include changes in sleep, low energy, feelings of helplessness, and withdrawal from social interactions.",
+        "llm_only_response": " Early Warning Signs of Mental Health Problems:\nMental health issues can be challenging to identify, especially in the early stages. However, recognizing the early warning signs can help individuals seek support and prevent more severe consequences. Here are some common early warning signs of mental health problems:\n\n1. Changes in behavior or mood: Noticeable changes in behavior, such as increased irritability, anxiety, or depression, can indicate underlying mental health issues.\n2. Withdrawal from social activities",
+        "rag_response": "Eating or sleeping too much or too little\nPulling away from people and usual activities\nHaving low or no energy\nFeeling numb or like nothing matters\nHaving unexplained aches and pains\nFeeling helpless or hopeless\nSmoking, drinking, or using drugs more than usual\nFeeling unusually confused, forgetful, on edge, angry, upset, worried, or scared\nYelling or fighting with family and friends\nExperiencing severe mood swings that cause problems in relationships\n",
+        "fine_tuned_llm_response": "Early detection and treatment can significantly improve the outcomes for individuals struggling with mental health issues. However, it is crucial to recognize the early warning signs to provide appropriate support.\nHere are some common early warning signs of mental health problems:\n1. Changes in mood or emotional state: Feeling sad, hopeless, irritable, anxious, or overwhelmed can be a sign that something is amiss.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How can caregivers discuss mental health with children?",
+        "Ground_Truth": "By asking simple, age-appropriate questions and creating a comfortable environment.",
+        "llm_only_response": "Caregivers play a crucial role in supporting the mental well-being of children. Here are some tips on how to have open and honest conversations about mental health with kids:\n1. Start early: Introduce mental health topics as early as age 4-5, using simple language and relatable examples.\n2. Use everyday situations: Connect mental health discussions to daily experiences, such as sharing feelings about a favorite toy or a recent event.",
+        "rag_response": "When discussing mental health with children, it's important to communicate in a straightforward manner, speak at a level appropriate to their age and development level, discuss the topic when they feel safe and comfortable, watch for reactions during the discussion and slow down or back up if they become confused or look upset. It's also helpful to compare mental health problems to physical illnesses, such as comparing depression to having the flu. ",
+        "fine_tuned_llm_response": "Mental Health Awareness Month is a great opportunity to start conversations about mental well-being. Here are some tips for caregivers on how to discuss mental health with the children in their care:\n1. Start early: Teach children that it's okay to feel sad, scared, or angry and encourage them to express their emotions.\n2. Use age-appropriate language: Use simple terms your child understands to explain what mental illness is and how it affects people.\n3. Share your own experiences.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How are phobias different from general anxiety?",
+        "Ground_Truth": "Phobias are irrational fears specific to certain objects or situations, unlike generalized anxiety which is ongoing and not situation-specific.",
+        "llm_only_response": " Phobias and general anxiety share some similarities, but they have distinct differences in terms of their symptoms, causes, and treatment approaches.\nSimilarities between phobias and general anxiety:\n1. Both can cause significant distress: Phobias and general anxiety can both cause significant emotional distress, impacting daily life and relationships.\n2. Both involve excessive fear or worry: Phobias are characterized by an irrational fear of a specific object, situation, or activity, while general anxiety involves excessive worry.",
+        "rag_response": "Phobias are different from general anxiety because they are irrational fears. A phobia is an overwhelming, persistent, and excessive fear of a specific object, situation, or activity that poses little or no real danger. In contrast, general anxiety is an ongoing experience of frequent anxiety that may last for months or even years, caused by various factors such as genetics, brain function, and environmental influences. ",
+        "fine_tuned_llm_response": " While both conditions share some similarities, there are key differences between them. Phobias and general anxiety are two distinct mental health conditions that have different symptoms, causes, and treatment approaches.\nPhobias vs General Anxiety: Key Differences\n1. Definition:\nA phobia is an irrational fear of a specific object, situation, or animal. It's a persistent and excessive fear that interferes with daily life. On the other hand, general anxiety is a feeling of worry or nervousness.",
+        "LLM_Only_Score": 4,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "How does the 988 Lifeline provide crisis support?",
+        "Ground_Truth": "It connects individuals to trained counselors offering confidential, 24/7 support.",
+        "llm_only_response": "The National Suicide Prevention Lifeline (Lifeline) is a 24/7, toll-free, and confidential service that provides immediate support to individuals in suicidal crisis or emotional distress.",
+        "rag_response": "The 988 Lifeline provides crisis support by connecting individuals in crisis with trained counselors across the United States. It offers a free, confidential 24/7 phone line that helps people cope with various issues such as substance use, economic worries, relationships, sexual identity, illness, abuse, mental and physical illness, and loneliness.",
+        "fine_tuned_llm_response": " The National Suicide Prevention Lifeline is a 24-hour, toll-free suicide prevention hotline that provides immediate support to people in distress. By dialing 988, you can connect with trained crisis counselors who are available to listen and help you work through your feelings.\n The 988 Lifeline is a national network of crisis centers that provide free and confidential support for people experiencing mental health crises or suicidal thoughts. The service aims to provide immediate support.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What are common coping techniques for social anxiety?",
+        "Ground_Truth": "Techniques include practicing mindfulness, gradual exposure to feared situations, and therapy.",
+        "llm_only_response": "Social anxiety, also known as social phobia, is a mental health condition characterized by feelings of overwhelming fear or anxiety in social situations. People with social anxiety may experience physical symptoms such as rapid heartbeat, sweating, and trembling, as well as emotional distress like avoidance and self-consciousness. ",
+        "rag_response": "Some common coping techniques for social anxiety include learning stress management techniques, practicing public speaking skills in a safe environment, finding a therapist who specializes in neurofeedback and biofeedback treatment, and working with your personality to build confidence in certain situations. Additionally, individuals can explore different communication styles, such as one-on-one or group settings, to find what works best for them.",
+        "fine_tuned_llm_response": "Coping with Social Anxiety Disorder (SAD) can be challenging, but there are several strategies that may help. Here are some common coping techniques:\n1. Deep Breathing: When we feel anxious or stressed, our breathing becomes shallow and rapid. Practicing deep breathing exercises can help calm the body and mind.\n2. Progressive Muscle Relaxation: This technique involves tensing and relaxing different muscle groups in your body to release tension and promote relaxation.",
+        "LLM_Only_Score": 2,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What support options exist for individuals with binge eating disorder?",
+        "Ground_Truth": "Support groups and tailored nutrition counseling can promote recovery.",
+        "llm_only_response": "Various support options available for individuals struggling with BED:\n Professional Help: Consult a mental health professional, such as a psychologist or psychiatrist, who specializes in eating disorders. They can provide individual therapy sessions, cognitive-behavioral therapy (CBT), and other evidence-based treatments.\\n2. Support Groups: Join online or in-person support groups, like Overeaters Anonymous (OA) or Binge Eating Disorder Association (BEDA).",
+        "rag_response": "Support options include:\\n\\n1. Cognitive-behavioral therapy (CBT): This type of therapy helps individuals identify and change negative thought patterns and behaviors associated with binge eating.\\n2. Dialectical behavior therapy (DBT): This type of therapy focuses on teaching skills to manage emotions and develop self-acceptance.\\n3. Family-based therapy: This type of therapy involves family members in the treatment process to help them understand and support the individual with binge eating disorder.",
+        "fine_tuned_llm_response": "Binge Eating Disorder (BED) is a serious eating disorder characterized by recurring episodes of binge eating. It can be challenging to cope with, and it's essential to seek professional help from a mental health provider or an eating disorders specialist.\nHere are some support options available for individuals with binge eating disorder:\n1. Individual Therapy: One-on-one therapy sessions with a licensed therapist who specializes in eating disorders can provide personalized guidance and support throughout your recovery journey.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "Why is it important to address mental health in children early?",
+        "Ground_Truth": "Early intervention can prevent long-term mental health challenges and aid development.",
+        "llm_only_response": "Early intervention and support can help children develop healthy coping mechanisms, build resilience, and improve their overall well-being. Here are some reasons why addressing mental health in children early is crucial:\\n1. Brain Development: Children's brains are still developing, and early experiences shape the structure and function of the brain. Addressing mental health issues early can influence the development of neural pathways and promote a healthier brain.",
+        "rag_response": "It is important to address mental health in children early because it can help prevent mental health problems from developing or worsening over time. Early intervention can also help children develop coping skills and learn how to manage stress and emotions effectively.",
+        "fine_tuned_llm_response": "May is Mental Health Awareness Month, and it's a great opportunity to discuss the importance of addressing mental health in children. Early intervention is crucial because it can help prevent more severe problems from developing later on. ",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "What role does extreme mood swings play in suicide risk?",
+        "Ground_Truth": "Mood swings can disrupt relationships and signal severe emotional pain.",
+        "llm_only_response": " Extreme mood swings can be a symptom of various mental health conditions, including bipolar disorder, borderline personality disorder, and depression. When individuals experience rapid shifts in their emotional state, it can be challenging to manage and regulate their emotions, leading to feelings of overwhelm, anxiety, and despair.\nResearch suggests that people who experience extreme mood swings are at higher risk for suicidal thoughts and behaviors. ",
+        "rag_response": "Extreme mood swings are a warning sign of suicide risk. For both youth and adults, acting anxious, agitated, or behaving recklessly is a sign that may indicate a heightened risk of suicide. This is because individuals experiencing extreme mood swings may be struggling with overwhelming emotional pain or distress, which can lead them to consider suicide as a means to escape their suffering. As a result, it is essential to recognize these warning signs and seek help immediately if you notice them in yourself or someone else.",
+        "fine_tuned_llm_response": "Mood swings are a common symptom of depression, anxiety disorders, and other mental health conditions. While some people may experience mild mood fluctuations, others may have more intense mood swings that can be distressing and interfere with daily life.\nExtreme mood swings can increase the risk of suicide.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How can schools help prevent self-harm among students?",
+        "Ground_Truth": "Schools can provide mental health education and access to counseling.",
+        "llm_only_response": " Self-harm is a complex issue that affects many young people, and it's essential for schools to take proactive steps to support their students. Here are some ways schools can help prevent self-harm among students:\n1. Create a safe and supportive environment: Foster an atmosphere where students feel comfortable sharing their feelings and concerns without fear of judgment or repercussions.\n2. Educate students about mental health: Incorporate mental health education into the curriculum, focusing on topics like stress management, coping mechanisms.",
+        "rag_response": "Schools play a crucial role in supporting students' mental health and preventing self-harm. Educators can help by:\\n\\n* Promoting mental health awareness and reducing stigma around mental illness\\n* Encouraging open communication and providing a safe space for students to discuss their feelings\\n* Implementing evidence-based programs that focus on social-emotional learning, coping skills, and stress management*",
+        "fine_tuned_llm_response": " Here are some strategies that have been shown to be effective:\n1. Create a safe and supportive environment: Schools should create an environment where students feel comfortable sharing their feelings and concerns without fear of judgment or punishment.\n2. Provide mental health resources: Schools should provide access to mental health professionals, such as counselors and therapists, who can work with students on a one-on-one basis or in groups.\n3. Educate staff and students: Teachers and other school staff should receive training.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How do SAD symptoms differ from general depression?",
+        "Ground_Truth": "SAD often involves seasonal mood changes, while general depression is not tied to seasons.",
+        "llm_only_response": " While both conditions share some similarities, there are distinct differences in their symptoms and characteristics. Here's a breakdown of the key differences:\n\n1. Seasonal pattern: The most significant difference is that SAD symptoms follow a seasonal pattern, typically occurring during the winter months when daylight hours are shorter. General depression can occur at any time of the year.\n2. Duration: SAD symptoms usually last for several months (typically December to February), while general depression can persist throughout the year or even be chronic.\n",
+        "rag_response": "SAD symptoms differ from general depression in that they tend to occur during the same season every year, whereas depression can occur at any time. SAD symptoms also tend to be triggered by changes in seasons, such as the lack of sunlight during the winter months, whereas depression can be caused by a variety of factors. Additionally, SAD symptoms may include feelings of sadness, anxiety, and lethargy, similar to those experienced by people with depression, but they tend to be more pronounced during the winter.",
+        "fine_tuned_llm_response": " While both conditions share some common symptoms, there are key differences in the way they affect people. Here's a breakdown of how SAD symptoms differ from those of general depression:\n1. Seasonal pattern: The most significant difference between SAD and depression is the seasonal pattern of symptoms. People with SAD typically experience symptoms during specific seasons or times of year (e.g., winter), while those with depression can have symptoms at any time.\n2. Duration: Symptoms of SAD tend to last longer.",
+        "LLM_Only_Score": 6,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 5
+    },
+    {
+        "Question": "What simple practices can improve emotional and spiritual well-being?",
+        "Ground_Truth": "Using accessible practices from daily life can enhance emotional and spiritual support.",
+        "llm_only_response": " Here are some easy-to-implement suggestions:\n1. Mindfulness meditation: Take a few minutes each day to focus on your breath, body sensations, or emotions without judgment.\n2. Gratitude practice: Write down three things you're thankful for each day before bed or at the start of your day.\n3. Nature connection: Spend time outdoors, whether it's walking in a park, hiking, or simply sitting in a garden or on a balcony with plants.",
+        "rag_response": "Meditation! Meditation breaks anxious thought patterns, reduces rumination, and decreases the tendency to worry by altering the way your brain responds to stress. It increases control over random unwanted thoughts and helps recognize thoughts as mere thoughts, allowing them to pass through without getting stuck. Additionally, meditation assists in restoring the balance of neurotransmitters within the brain, which can alleviate symptoms of anxiety and depression. Furthermore, it promotes social and emotional competency, builds resilience, and encourages good physical health. ",
+        "fine_tuned_llm_response": " Here are some suggestions:\n1. Practice mindfulness: Mindfulness is the practice of being present in the moment, without judgment or distraction. It can help you cultivate a greater sense of awareness and acceptance of your emotions.\n2. Connect with nature: Spending time outdoors can be beneficial for both physical and mental health. Take a walk, go for a hike, or simply sit outside to connect with nature.\n3. Practice gratitude: Focusing on what you have rather than what you don't have can help.",
+        "LLM_Only_Score": 8,
+        "RAG_Score": 6,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What psychological factors contribute to eating disorders?",
+        "Ground_Truth": "Factors include negative self-image, societal pressure, and co-existing mental illnesses.",
+        "llm_only_response": "Eating disorders are complex conditions that involve a combination of psychological, social, and biological factors. While the exact causes of eating disorders are still not fully understood, research has identified several psychological factors that may contribute to their development.\nFirstly, low self-esteem is a common factor in the development of eating disorders. Individuals with low self-esteem may use restrictive eating habits or excessive exercise as a way to feel more in control and worthy.",
+        "rag_response": "According to the context, some common psychological factors that contribute to eating disorders include:\n\n* Genes\n* Hormones\n* Co-morbid mental disorders (such as depression or anxiety disorders)\n* Social attitudes that promote very thin body types\n* Diet culture\n* Negative self-image\n* Perfectionism\n* Internalization of societal beauty standards\n* Insecurity about oneself and one's abilities\n\nThese factors can lead to a distorted sense of body image and feelings of inadequacy.",
+        "fine_tuned_llm_response": " Eating disorders are complex conditions that involve a mix of biological, psychological, and sociocultural factors. Some of the key psychological factors that can contribute to eating disorders include:\n1. Low self-esteem: People with low self-esteem may feel like they need to control their weight or body shape in order to feel good about themselves.\n2. Negative body image: Having a negative body image means having an unrealistic view of your body shape and size. This can lead to feelings of inadequacy.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 7
+    },
+    {
+        "Question": "What support strategies benefit individuals with schizophrenia?",
+        "Ground_Truth": "Strategies include consistent medication, therapy, and family involvement.",
+        "llm_only_response": "Schizophrenia is a chronic and debilitating mental disorder that affects millions of people worldwide. Individuals with schizophrenia often experience symptoms such as hallucinations, delusions, disorganized thinking, and social withdrawal, which can significantly impact their daily functioning and overall well-being. Support strategies are essential to help individuals with schizophrenia manage their symptoms, improve their quality of life, and increase their participation in society.",
+        "rag_response": "Support strategies that benefit individuals with schizophrenia include joining a support group, sharing stories and advice with others who understand what they are going through, educating oneself and others about schizophrenia, asking about social services assistance, regularly doing activities like meditation or tai-chi to reduce stress, and incorporating relaxation and stress management techniques into their life. These strategies can help individuals with schizophrenia cope with their condition and improve their overall well-being.",
+        "fine_tuned_llm_response": "Schizophrenia is a severe mental disorder characterized by symptoms such as hallucinations, delusions, and disorganized thinking. Individuals with schizophrenia often experience significant impairment in their daily functioning, social relationships, and overall well-being. ",
+        "LLM_Only_Score": 3,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 3
+    },
+    {
+        "Question": "What steps should caregivers take when concerned about a child's mental health?",
+        "Ground_Truth": "They should consult healthcare providers, ask about further evaluations, and maintain open communication with the child.",
+        "llm_only_response": "When concerned about a child's mental health, caregivers can take the following steps:\n1. Observe and report: Pay attention to changes in behavior, mood, or appetite. Report any concerns to parents or guardians.\n2. Encourage open communication: Create a safe and supportive environment where children feel comfortable sharing their feelings and thoughts.\n3. Educate yourself: Learn about common mental health issues in children, such as anxiety and depression.",
+        "rag_response": "Caregivers should consult with a school counselor, school nurse, or administrator and the student's parents if they observe one or more of the following behaviors:\\n\\n* Feeling very sad or withdrawn for more than two weeks\\n* Seriously trying to harm oneself, or making plans to do so\\n* Sudden overwhelming fear for no reason, sometimes with a racing heart or fast breathing\\n* Involvement in many fights or desire to badly hurt others\\n*",
+        "fine_tuned_llm_response": " - Caregivers often find themselves in situations where they are worried about the well-being of their children. When it comes to mental health, there are several steps that you can take as a caregiver to ensure your child receives the support and care they need.\nHere are some steps you can take:\n1. Educate yourself: Learn about mental health conditions such as depression, anxiety disorders, and other mental illnesses. Understanding what your child is going through will help you better understand how to support them.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "How does untreated OCD impact daily life?",
+        "Ground_Truth": "It can lead to compulsions that dominate daily activities, reducing quality of life.",
+        "llm_only_response": " Untreated obsessive-compulsive disorder (OCD) can have a significant impact on an individual's daily life, causing significant distress and impairment. Here are some ways in which untreated OCD can affect daily life:\n1. Interferes with relationships: Untreated OCD can make it difficult for individuals to form and maintain healthy relationships. Obsessions and compulsions can lead to feelings of shame, guilt, and anxiety, making it hard for others to understand and support the individual.\n2. Affects work.",
+        "rag_response": "Untreated OCD can significantly impact daily life, causing significant distress and impairment in various areas, including relationships, work or school performance, and overall functioning. People with untreated OCD may experience feelings of guilt, shame, and embarrassment due to their symptoms, leading to social isolation",
+        "fine_tuned_llm_response": " Untreated Obsessive Compulsive Disorder (OCD) can have a significant impact on an individual's daily life. People with untreated OCD may experience:\n1. Increased anxiety: The constant intrusive thoughts and compulsions can lead to increased anxiety, making it difficult for individuals to cope with everyday situations.\n2. Social withdrawal: Individuals with untreated OCD may avoid social interactions due to fear of embarrassing themselves or being perceived as \"crazy\" by others.",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 7,
+        "Fine_Tuned_Score": 9
+    },
+    {
+        "Question": "How can parents identify mental health concerns in children?",
+        "Ground_Truth": "By observing signs like extreme sadness, withdrawal, sudden fears, or behavioral changes.",
+        "llm_only_response": "Identifying mental health concerns in children can be a challenging task for parents, but it's crucial to recognize the signs early on. Here are five tips to help you identify potential mental health issues in your child:\\n1. Pay attention to changes in behavior: Children who are struggling with mental health issues may exhibit changes in their behavior, such as:\\nIncreased irritability or mood swings\\nWithdrawal from activities they once enjoyed\\nChanges in appetite or sleep patterns\\nDifficulty concentrating or completing tasks.",
+        "rag_response": "Parents can identify mental health concerns in children by being aware of warning signs, such as feeling very sad or withdrawn for more than two weeks, seriously trying to harm oneself, or showing severe out-of-control behavior. They can also consult with a school counselor, school nurse, mental health provider, or another healthcare professional if they notice one or more of these behaviors. Additionally, parents can look for changes in their child's behavior, such as a drop in school performance, difficulties in school or with classmates,",
+        "fine_tuned_llm_response": "As a parent, it's natural to worry about your child's well-being. However, identifying mental health concerns in children can be challenging due to the lack of clear symptoms and the fact that they may not have the language skills to express their feelings.\nHere are some signs you should look out for:\n1. Changes in behavior or mood: Whether your child is experiencing sudden changes in their behavior or mood.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 8,
+        "Fine_Tuned_Score": 6
+    },
+    {
+        "Question": "Why do people develop social anxiety disorder?",
+        "Ground_Truth": "It often develops due to genetics or negative social experiences.",
+        "llm_only_response": " The exact causes of social anxiety disorder are not fully understood, but it is believed to be caused by a combination of genetic, environmental, and psychological factors. Some possible contributing factors include:\nGenetics: Social anxiety disorder tends to run in families, suggesting that there may be a genetic component.\nBrain chemistry: Imbalances in neurotransmitters such as serotonin and gamma-aminobutyric acid (GABA) have been linked to social anxiety disorder.\nTrauma: People who experience traumatic events.",
+        "rag_response": "According to the context, it's not fully known what are the specific causes of social anxiety disorder. Factors such as genetics, and learned behavior (such as developing social anxiety disorder after an incredibly embarrassing social situation) can be causes.",
+        "fine_tuned_llm_response": " The exact cause of social anxiety disorder is not known, but it's thought that a combination of genetic and environmental factors may contribute to the development of this condition. Some possible risk factors include:\nGenetics: If you have a family history of social anxiety disorder or other anxiety disorders, you may be more likely to develop social anxiety disorder.\nBrain chemistry: Imbalances in neurotransmitters such as serotonin and gamma-aminobutyric acid (GABA) may play a role in the development of social anxiety.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 5,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are signs a child may need mental health support?",
+        "Ground_Truth": "Signs include drastic mood swings, extreme fear, or severe behavioral changes.",
+        "llm_only_response": "Signs that a child may need mental health support can vary depending on the individual child and their unique circumstances. However, here are some common indicators that a child may benefit from professional help:\n1. Changes in behavior: If your child's behavior changes significantly, such as becoming more aggressive, withdrawn, or anxious, it could be a sign of an underlying mental health issue.\n2. Emotional distress: Children who experience emotional distress, such as feeling overwhelmed, sad, or hopeless.",
+        "rag_response": "**Warning Signs**\n\nChildren may need mental health support if they exhibit one or more of the following behaviors:\n\n* Feeling very sad or withdrawn for more than two weeks\n* Seriously trying to harm or kill themselves, or making plans to do so\n* Experiencing sudden overwhelming fear for no reason, sometimes with a racing heart or fast breathing\n* Getting in many fights or wanting to hurt others\n* Showing severe out-of-control behavior",
+        "fine_tuned_llm_response": "Signs that a child may need mental health support include:\nPersistent sadness or withdrawal lasting over two weeks\nSudden changes in behavior, mood, or personality\nExtreme anxiety, fear, or worry interfering with daily activities\nDifficulty concentrating or sitting still, affecting school performance\nDrastic changes in eating or sleeping patterns",
+        "LLM_Only_Score": 5,
+        "RAG_Score": 9,
+        "Fine_Tuned_Score": 8
+    },
+    {
+        "Question": "What are some biological factors that contribute to mental health conditions?",
+        "Ground_Truth": "Biological factors contributing to mental health conditions include genes and brain chemistry.",
+        "llm_only_response": " Biological factors can include:\nGenetics: Mental health conditions such as depression, anxiety disorders, and schizophrenia have been linked to genetic predisposition. Research has shown that certain genes may increase the risk of developing these conditions.\nHormones: Hormonal changes, such as those experienced during puberty or menopause, can affect mood and behavior. Hormonal imbalances, such as thyroid disorders, can also impact mental health.\nBrain chemistry: Neurotransmitters like serotonin, dopamine, and norepinephrine.",
+        "rag_response": "Biological factors, such as genes or brain chemistry, contribute to mental health conditions.",
+        "fine_tuned_llm_response": "Biological factors can play a significant role in the development of mental health conditions. Some of these factors include:\n1. Genetic predisposition: Mental health disorders such as depression, anxiety disorder, and schizophrenia have been linked to genetic factors.\n2. Hormonal imbalance: Hormones like cortisol, insulin, and thyroid hormones play a crucial role in maintaining overall well-being. Imbalances or fluctuations in hormone levels can contribute to mental health issues.\n3. Neurotransmitters.",
+        "LLM_Only_Score": 7,
+        "RAG_Score": 4,
+        "Fine_Tuned_Score": 9
+    }
+]
