@@ -14,7 +14,7 @@ Analyzes the input summary of a conversation with the patient.
 
 Categorizes the patient's condition into mild, intermediate, or extreme levels.
 
-### Actionable Suggestions:
+### Suggestions:
 
 Provides specific recommendations for mental health line workers to handle the situation more effectively.
 
